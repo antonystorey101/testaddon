@@ -4,3 +4,11 @@
 <thumbnail>http://static.hd-trailers.net/images/-99804-poster-xlarge-resized.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Sausage Party (2016)</title>
+<meta><content>movie</content><imdb>tt1700841</imdb><title>Sausage Party (2016)</title><year>2016</year></meta>
+<link><sublink>http://uptobox.com/1sqipntwbtku/rep-sausageparty.1080p.bluray.x264.mkv</sublink><sublink>http://uptobox.com/n8ddrcy4eep6/Sausage.Partz.2016.720p.BluRay.x264-GECKOS.mkv</sublink><sublink>http://uptobox.com/llun06dqech6/Sausage.Party.2016.BRRip.XviD.AC3-EVO.avi</sublink></link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQccZ--XqJZcX5RTwlCy1_WJTyOUb_50xUS5cIzVdmOZtCNtIfu</thumbnail>
+<fanart>https://i.ytimg.com/vi/xV-rEev8irU/maxresdefault.jpg</fanart>
+</item>
