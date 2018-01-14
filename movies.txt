@@ -1,14 +1,14 @@
 <item>
-<title>Dogma (1999)</title>
+<title>Dogma (480p)</title>
 <link>http://deadlyblogger.com/NewRelease/dogma1999.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Dukirk</title>
+<title>Dukirk (720p)</title>
 <link>http://media.bia4music.com/movie/2017/Film/12/Dunkirk.2017.720p.mkv</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
+<thumbnail>http://nsa39.casimages.com/img/2017/12/05/17120502254677790.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
