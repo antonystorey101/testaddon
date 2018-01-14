@@ -19,6 +19,14 @@
 </channel>
 
 <channel>
+<name>[COLORgold]Kids Hub [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
 <name>Youtube</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
