@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>BBC Two HD</title>
+<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35478.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BBC_Two_HD_flat.svg/1280px-BBC_Two_HD_flat.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Inbetweeners (24/7)</title>
 <link>https://archive.org/download/247inbet/247inbet.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c0/The_Inbetweeners_cast.png</thumbnail>
