@@ -1,13 +1,6 @@
 <item>
-<title>Dunkirk</title>
-<link>http://uptobox.com/aswwrft5rosv</link>
-<thumbnail>http://static.hd-trailers.net/images/-99804-poster-xlarge-resized.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Sausage Party</title>
 <link>http://uptobox.com/1sqipntwbtku/rep-sausageparty.1080p.bluray.x264.mkv</link>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQccZ--XqJZcX5RTwlCy1_WJTyOUb_50xUS5cIzVdmOZtCNtIfu</thumbnail>
-<fanart>https://i.ytimg.com/vi/xV-rEev8irU/maxresdefault.jpg</fanart>
+<fanart></fanart>
 </item>
