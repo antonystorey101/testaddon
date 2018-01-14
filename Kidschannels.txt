@@ -1,1 +1,6 @@
-
+<item>
+<title>Cartoon Network (Uk)</title>
+<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/36145.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png</thumbnail>
+<fanart></fanart>
+</item>
