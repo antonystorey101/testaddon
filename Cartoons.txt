@@ -1,7 +1,13 @@
 <item>
 <title>Bob The Builder</title>
-<utube>EWQ3PpPHXN5FiqgnLlXiBnU</utube>
+<utube>PLC9Qdm15h_EWQ3PpPHXN5FiqgnLlXiBnU</utube>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Bob_the_Builder_logo.svg/1280px-Bob_the_Builder_logo.svg.png</thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>02-Crazy</title>
+<utube>PLC9Qdm15h_EWQ3PpPHXN5FiqgnLlXiBnU</utube>
+<thumbnail>http://</thumbnail>
+<fanart></fanart>
+</item>
