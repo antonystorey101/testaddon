@@ -5,7 +5,7 @@
 <channel>
 <name>[COLORlime]Kids Cartoons[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Kids/kispopular.xml</externallink>
+<externallink>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Kids/kispopular.tkispopular.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
