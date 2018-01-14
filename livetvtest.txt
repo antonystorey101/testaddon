@@ -6,8 +6,8 @@
 </item>
 
 <item>
-<title>2 Pints (24/7)</title>
-<link>https://archive.org/download/2472pints/2472pints.mp4</link>
+<title>Inbetweeners (24/7)</title>
+<link>https://archive.org/download/247inbet/247inbet.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
 <fanart></fanart>
 </item>
