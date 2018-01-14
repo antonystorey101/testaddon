@@ -8,6 +8,6 @@
 <item>
 <title>Inbetweeners (24/7)</title>
 <link>https://archive.org/download/247inbet/247inbet.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c0/The_Inbetweeners_cast.png</thumbnail>
 <fanart></fanart>
 </item>
