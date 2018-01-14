@@ -1,7 +1,7 @@
 <item>
-<title>Fireman Sam</title>
-<link>http://www.toonget.net/fireman-sam</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
