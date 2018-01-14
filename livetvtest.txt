@@ -21,7 +21,7 @@
 
 <item>
 <title>Mrs. Brown's Boys (24/7)</title>
-<link>https://archive.org/download/247mbbs/247mbbs.mp4</link>
+<link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/38577.ts</link>
 <thumbnail>https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/07/02/13/Mrs-Browns-Boys-DMovie.jpg</thumbnail>
 <fanart></fanart>
 </item>
