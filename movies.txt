@@ -24,4 +24,4 @@
 <link>http://files.vodiptv.org/Films/Beauty%20and%20The%20Beast%202017%20720p%20HD-TS%20x264-CPG.mkvmp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91O+Z+4UIIL._RI_SX200_.jpg</thumbnail>
 <fanart></fanart>
-</item><
+</item>
