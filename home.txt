@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>Live TV</name>
+<name>[COLORgold]Live TV[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://www.dropbox.com/s/unol0igmh9fupmn/live.txt?dl=1</externallink>
 <fanart></fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>Movies</name>
+<name>[COLORlime]Movies[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
