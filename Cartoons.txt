@@ -1,6 +1,6 @@
 <item>
 <title>Bob The Builder</title>
-<utube>watch?v=8kFfHnre85o&list=PLC9Qdm15h_EWQ3PpPHXN5FiqgnLlXiBnU</utube>
+<utube>8kFfHnre85o&list=PLC9Qdm15h_EWQ3PpPHXN5FiqgnLlXiBnU</utube>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Bob_the_Builder_logo.svg/1280px-Bob_the_Builder_logo.svg.png</thumbnail>
 <fanart></fanart>
 </item>
