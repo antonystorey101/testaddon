@@ -1,0 +1,19 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLORlime]Kids Live Tv[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://www.dropbox.com/s/unol0igmh9fupmn/live.txt?dl=1</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>[COLORred]Kids Movies [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://www.dropbox.com/s/unol0igmh9fupmn/live.txt?dl=1</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
