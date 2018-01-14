@@ -5,7 +5,7 @@
 <channel>
 <name>[COLORred]Kids UK Tv Channels [/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>hhh</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
@@ -21,7 +21,7 @@
 <channel>
 <name>[COLORred]Kids Movies [/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>hhh</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
