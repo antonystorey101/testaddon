@@ -1,1 +1,7 @@
+<item>
+<title>Fireman Sam</title>
+<link>http://deadlyblogger.com/NewRelease/dogma1999.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
