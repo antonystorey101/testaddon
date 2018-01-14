@@ -12,3 +12,10 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Jeepers Creepers III (720p)</title>
+<link>http://media.bia4music.com/movie/2017/Film/12/Jeepers.Creepers.III.2017.720p.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
