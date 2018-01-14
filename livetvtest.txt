@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>ITV 1 HD</title>
+<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35511.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/ITV_HD_2013.svg/1200px-ITV_HD_2013.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Inbetweeners (24/7)</title>
 <link>https://archive.org/download/247inbet/247inbet.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c0/The_Inbetweeners_cast.png</thumbnail>
