@@ -3,6 +3,14 @@
 
 <channels>
 <channel>
+<name>[COLORred]Kids UK Tv Channels [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
 <name>[COLORlime]Kids Cartoons[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Cartoons.txt</externallink>
@@ -13,7 +21,7 @@
 <channel>
 <name>[COLORred]Kids Movies [/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/test.txt</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
