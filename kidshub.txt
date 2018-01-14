@@ -13,7 +13,7 @@
 <channel>
 <name>[COLORred]Kids Movies [/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://www.dropbox.com/s/unol0igmh9fupmn/live.txt?dl=1</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/test.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
