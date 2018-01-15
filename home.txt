@@ -7,7 +7,7 @@
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>Live Tv Section Provided By Top IPTV Suppliers</info>
 </channel>
 
 <channel>
@@ -15,13 +15,13 @@
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>All Content Found With A Simple Google Search</info>
 </channel>
 
 <channel>
 <name>[COLORgold]Documentaries[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Documentaries.txt</externallink>
 <fanart></fanart>
 <info>All Content Streamed Via YouTube</info>
 </channel>
@@ -31,7 +31,7 @@
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>All Content Streamed Via YouTube</info>
 </channel>
 
 <channel>
@@ -39,7 +39,7 @@
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>All Content Streamed Via YouTube</info>
 </channel>
 
 <channel>
