@@ -1,6 +1,13 @@
 <item>
-<title>Bruce Springsteen Live In Lisbon  (Rock in Rio)</title>
+<title>Bruce Springsteen Live In Lisbon (Rock in Rio)</title>
 <utube>DwUJulbdgH0</utube>
 <thumbnail>https://www.collectorsmusicreviews.com/wp-content/uploads/2013/10/Bruce-Springsteen-Rio-2013.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sting Live (2017)</title>
+<utube>stMaS8edmLI</utube>
+<thumbnail>https://1.bp.blogspot.com/-MW81LcAx4cE/WXu5VF7ZbnI/AAAAAAAAOoE/FIySediRqIUXm5JEKHVXXdP6FzU9PD03QCLcBGAs/s600/sting-live-concert_-_BenjaminMadeira-com.jpg<thumbnail>
 <fanart></fanart>
 </item>
