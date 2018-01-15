@@ -1,7 +1,7 @@
 <item>
 <title>Interstellar (1080p)</title>
 <link>http://dl.my-film.me/s1/Movie/Interstellar.2014/Interstellar.2014.IMAX.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
-<thumbnailhttps://resizing.flixster.com/zfx0v8h7fAnJaaIlVkp1KFhu3rs=/206x305/v1.bTsxMTE5MDg2MDtqOzE3NjM0OzEyMDA7ODAwOzEyMDA</thumbnail>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -32,3 +32,10 @@
 <thumbnail>http://img.mysupermarket.co.uk/Live/Products_300/85/473185.jpg?v=20170514115008</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Beauty And The Beast (1080p)</title>
+<link>http://dl.my-film.me/s1/Movie/Beauty.and.the.Beast.2017/Beauty.and.the.Beast.2017.1080p.BluRay.x265.HEVC.28318254.mkv</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/11606343/p11606343_p_v8_at.jpg</thumbnail>
+<fanart></fanart>
+</item
