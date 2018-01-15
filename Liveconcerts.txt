@@ -11,3 +11,10 @@
 <thumbnail>https://1.bp.blogspot.com/-MW81LcAx4cE/WXu5VF7ZbnI/AAAAAAAAOoE/FIySediRqIUXm5JEKHVXXdP6FzU9PD03QCLcBGAs/s600/sting-live-concert_-_BenjaminMadeira-com.jpg<thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Bryan Adams Live (2016)</title>
+<utube>h70A9Lk0sng</utube>
+<thumbnail>https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/U5dtyhsST7c8Nm9rCk9uBzMJCBxAstw_1680x8400<thumbnail>
+<fanart></fanart>
+</item>
