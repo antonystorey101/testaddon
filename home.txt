@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>Youtube</name>
+<name>Music Videos</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
