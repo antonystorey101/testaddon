@@ -6,7 +6,7 @@
 </item>
 
 <item>
-<title>Dukirk (720p)</title>
+<title>Dukirk (1080p)</title>
 <link>http://dl.my-film.me/s1/Movie/Dunkirk.2017/Dunkirk.2017.1080p.BluRay.x264.6CH.MkvCage-[My-Film].mkv</link>
 <thumbnail>http://nsa39.casimages.com/img/2017/12/05/17120502254677790.jpg</thumbnail>
 <fanart></fanart>
