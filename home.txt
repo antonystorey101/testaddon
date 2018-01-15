@@ -40,7 +40,7 @@
 <externallink>https://<channel>
 <name>[COLORgold]Interstellar TV[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>hhh</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
