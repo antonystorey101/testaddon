@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>Music Videos</name>
+<name>[COLORlime]Music Videos[/COLOR]</name>
 <thumbnail>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
