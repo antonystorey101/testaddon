@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>[COLORgold]Interstellar TV[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
 <fanart></fanart>
 <info>Live Tv Section Provided By Top IPTV Suppliers</info>
@@ -12,7 +12,7 @@
 
 <channel>
 <name>[COLORlime]HD One Click Movies[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
 <info>All Content Found With A Simple Google Search</info>
@@ -20,7 +20,7 @@
 
 <channel>
 <name>[COLORgold]Documentaries[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Documentaries.txt</externallink>
 <fanart></fanart>
 <info>All Content Streamed Via YouTube</info>
@@ -28,7 +28,7 @@
 
 <channel>
 <name>[COLORlime]Kids Plannet [/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
 <info>All Content Streamed Via YouTube</info>
@@ -36,7 +36,7 @@
 
 <channel>
 <name>[COLORgold]Music Video Playlists (Autoplay)[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
 <fanart></fanart>
 <info>All Content Streamed Via YouTube</info>
@@ -44,7 +44,7 @@
 
 <channel>
 <name>[COLORlime]Live In Concert[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
 <fanart></fanart>
 <info>Music Concerts Streamed Via YouTube</info>
