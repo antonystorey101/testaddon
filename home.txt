@@ -19,7 +19,15 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Kids Plannet [/COLOR]</name>
+<name>[COLORgold]Documentaries[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
+<fanart></fanart>
+<info>All Content Streamed Via YouTube</info>
+</channel>
+
+<channel>
+<name>[COLORLlime]Kids Plannet [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
@@ -27,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Music Video Playlists (Autoplay)[/COLOR]</name>
+<name>[COLORgold]Music Video Playlists (Autoplay)[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
 <fanart></fanart>
@@ -35,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Live In Concert[/COLOR]</name>
+<name>[COLORlime]Live In Concert[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
 <fanart></fanart>
