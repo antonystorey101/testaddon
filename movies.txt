@@ -1,7 +1,7 @@
 <item>
-<title>Dogma (480p)</title>
-<link>http://deadlyblogger.com/NewRelease/dogma1999.mp4</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
+<title>Wonder Woman (1080p)</title>
+<link>http://sv4avadl.uploadet.ir/Movie/2017/06/Wonder.Woman.2017.HC.1080p.HDRip.6CH.AVADL.BiZ.mkv</link>
+<thumbnail>hhttp://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1Https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
