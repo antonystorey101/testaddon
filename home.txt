@@ -37,14 +37,7 @@
 <channel>
 <name>[COLORgold]Live In Concert[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://<channel>
-<name>[COLORgold]Interstellar TV[/COLOR]</name>
-<thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
-</channel>
-</externallink>
 <fanart></fanart>
 <info>Music Concerts Streamed Via YouTube</info>
 </channel>
