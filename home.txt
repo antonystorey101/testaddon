@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLORgold]Live TV[/COLOR]</name>
+<name>[COLORgold]Interstellar TV[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
 <fanart></fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Movies[/COLOR]</name>
+<name>[COLORlime]HD One Click Movies[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Kids Hub [/COLOR]</name>
+<name>[COLORgold]Kids Plannet [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
