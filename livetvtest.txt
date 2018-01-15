@@ -28,7 +28,7 @@
 
 <item>
 <title>Only Fools And Horses (24/7)</title>
-<link>http://sofaflixiptv.ddns.net:25461/live/247restr3am/2rjYIKEwcJ/40656.ts</link>
+<link>http://pagead2.googlesyndication.com/activeview?avi=Bq3r-CDddWobaKcSXtgfwvYGIDgDKxoPN7gUAABABOAHIAQHgAgDIA5sE4AQBiAW035_kA6AGGtIIBQiAARABwhMGGPn4iIoD&cid=CAASEuRogRZK973ZTI1gsqa7OOi1kg&id=osdtos&ti=1&adk=2507958419&tt=2391&bs=360,560&mtos=588,588,2383,2383,2383&tos=1067,107,1209,0,0&p=299,20,349,340&inapp=0&mcvt=2383&rs=3&ht=0&tfs=13021&tls=17872&mc=1&lte=1&bas=0&bac=1&bos=360,560&ps=360,1909&ss=360,640&pt=15485&deb=1-4-4-292-32-14&tvt=14759&is=360,300&op=1&iframe_loc=http%3A%2F%2Fwww.bbtsip.tv%2Famerican-dad.html&avms=geo&r=u&uc=49&tgt=BODY&cl=1&cec=27&clc=2&cac=0320x50&v=r20180108</link>
 <thumbnail>https://res.cloudinary.com/uktv/image/upload/v1428917306/fddledkjxilor1dkchmf.png</thumbnail>
 <fanart></fanart>
 </item>
