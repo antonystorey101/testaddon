@@ -14,7 +14,7 @@
 
 <item>
 <title>Fireman Sam</title>
-<utube>SjyfzFia9YQ&list=PLAjLHbRT3Z_XzlV3NLVYuGrLBjilq-TXE</utube>
+<utube>PLAjLHbRT3Z_XzlV3NLVYuGrLBjilq-TXE</utube>
 <thumbnail>http://intheplayroom.co.uk/wp-content/uploads/2015/10/FiremanSamSafetyMonthImageLogo.jpg</thumbnail>
 <fanart></fanart>
 </item>
