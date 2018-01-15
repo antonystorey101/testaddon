@@ -27,8 +27,8 @@
 </item>
 
 <item>
-<title>Blackadder (24/7)</title>
-<link>https://archive.org/download/247black/247bl247black.mp4</link>
+<title>Only Fools And Horses (24/7)</title>
+<link>http://sofaflixiptv.ddns.net:25461/live/247restr3am/2rjYIKEwcJ/40656.ts</link>
 <thumbnail>https://res.cloudinary.com/uktv/image/upload/v1428917306/fddledkjxilor1dkchmf.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -36,6 +36,6 @@
 <item>
 <title>Mrs. Brown's Boys (24/7)</title>
 <link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/38577.ts</link>
-<thumbnail>https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/07/02/13/Mrs-Browns-Boys-DMovie.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI1NGIwNzYtOTVlMS00ZGYwLWE0ZTktYzVmMGVlMmRmN2QxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
