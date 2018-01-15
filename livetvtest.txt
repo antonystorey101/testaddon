@@ -35,7 +35,7 @@
 
 <item>
 <title>Mrs. Brown's Boys (24/7)</title>
-<link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/38577.ts</link>
+<link>http://vs-hls-uk-live.edgesuite.net/pool_3/live/bbc_one_wales_hd/bbc_one_wales_hd.isml/bbc_one_wales_hd-pa4%3d128000-video%3d5070016.m3u8</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI1NGIwNzYtOTVlMS00ZGYwLWE0ZTktYzVmMGVlMmRmN2QxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
