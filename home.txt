@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLORLlime]Kids Plannet [/COLOR]</name>
+<name>[COLORlime]Kids Plannet [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
