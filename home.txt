@@ -28,7 +28,7 @@
 
 <channel>
 <name>Music Videos</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
