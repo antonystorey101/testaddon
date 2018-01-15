@@ -28,7 +28,7 @@
 
 <channel>
 <name>[COLORlime]Music Videos[/COLOR]</name>
-<thumbnail>hhhh</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
