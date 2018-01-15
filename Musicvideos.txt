@@ -4,3 +4,11 @@
 <thumbnail>https://assets.trabiancdn.com/api/file/VfhUnneESKbrC9ykuwsh+20140908_Born_To_Run_1.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>The Best Of Jon Bon Jovi</title>
+<utube>RDEMwFsYW_I6KW9l_k_U6XwJXQ</utube>
+<thumbnail>https://i.pinimg.com/736x/aa/20/c7/aa20c70dad6b4b3bc0dcdb195176efb6--s-rock-bands-band-photos.jpg</thumbnail>
+<fanart></fanart>
+</item>
+© 2018 GitHub, Inc
