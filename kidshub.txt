@@ -7,7 +7,7 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Cartoons.txt</externallink>
 <fanart></fanart>
-<info></info>
+<info>[COLORgold]ALL CONTENT HOSTED ON YOUTUBE.[/COLOR] [COLORlime]SHOWS ARE SET AS PLAYLISTS.[/COLOR]  [COLORgold]CLICK ON SHOW AND AFTER FIRST EPISODE KODI WILL AUTOPLAY THE REST OF THE PLAYLIST[/COLOR]</info>
 </channel>
 
 <channel>
