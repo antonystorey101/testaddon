@@ -5,3 +5,52 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORlime]Underwater Answers[/COLOR]</title>
+<utube>B-XoimvtQiI</utube>
+<thumbnail>https://i.ytimg.com/vi/B-XoimvtQiI/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Big Pit Fishing[/COLOR]</title>
+<utube>aLqc3i037mc</utube>
+<thumbnail>https://i.ytimg.com/vi/aLqc3i037mc/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Catching Giant Carp[/COLOR]</title>
+<utube>AwvdQWrGmN0</utube>
+<thumbnail>https://i.ytimg.com/vi/AwvdQWrGmN0/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Seasons Of Carp[/COLOR]</title>
+<utube>6beiIJyJf_c</utube>
+<thumbnail>https://i.ytimg.com/vi/6beiIJyJf_c/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Urban Banx - Liverpool[/COLOR]</title>
+<utube>E6v7L74Mr2c</utube>
+<thumbnail>https://i.ytimg.com/vi/E6v7L74Mr2c/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Euro Banx - Nash Tackle[/COLOR]</title>
+<utube>Ra8x1v9jk8Y</utube>
+<thumbnail>https://i.ytimg.com/vi/Ra8x1v9jk8Y/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Carp Fishing In Paradise - River Lot[/COLOR]</title>
+<utube>_Xz8EXEsxW0</utube>
+<thumbnail>https://i.ytimg.com/vi/_Xz8EXEsxW0/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
