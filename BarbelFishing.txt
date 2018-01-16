@@ -1,1 +1,6 @@
-
+<item>
+<title>River Fish For Barbel On Bomb & Feeder </title>
+<utube>v=na--zY0-Cos</utube>
+<thumbnail>https://i.ytimg.com/vi/na--zY0-Cos/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
