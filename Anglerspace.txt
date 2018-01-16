@@ -4,7 +4,7 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Carpfishing.txt</externallink>
 <fanart></fanart>
-<info>Live Tv Section Provided By Top IPTV Suppliers</info>
+<info></info>
 </channel>
 
 <channel>
@@ -12,7 +12,7 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/BarbelFishing.txt</externallink>
 <fanart></fanart>
-<info>Live Tv Section Provided By Top IPTV Suppliers</info>
+<info></info>
 </channel>
 
 </channel>
