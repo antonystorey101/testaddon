@@ -18,3 +18,10 @@
 <thumbnail>http://intheplayroom.co.uk/wp-content/uploads/2015/10/FiremanSamSafetyMonthImageLogo.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Paw Patrol[/COLOR]</title>
+<utube>PL89jbmhaqzU5BlzuVjkJ0AwT-rZ3BB9rZ</utube>
+<thumbnail>https://i.ytimg.com/vi/ygbGUW_ihUk/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
