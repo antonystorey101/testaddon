@@ -50,4 +50,12 @@
 <info>Music Concerts Streamed Via YouTube</info>
 </channel>
 
+<channel>
+<name>[COLORgold]Anglers Space[/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
+<fanart></fanart>
+<info>Carp And Barbel Fishing Videos Streamed Via YouTube</info>
+</channel>
+
 </channels>
