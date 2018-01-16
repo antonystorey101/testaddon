@@ -27,3 +27,24 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51jbxCiUvjL._SY445_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]North Korea's Darkest Secrets[/COLOR]</title>
+<utube>WOzY3U9xIoM</utube>
+<thumbnail>https://i.ytimg.com/vi/Stzzf0ZqXkw/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Mystery Of Stonehenge[/COLOR]</title>
+<utube>-Egj-MvJXhY</utube>
+<thumbnail>http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/58/l4/p058l4jf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Black Holes[/COLOR]</title>
+<utube>uGalEaHVrE4</utube>
+<thumbnail>https://i.ytimg.com/vi/RChQtlCeUgM/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
