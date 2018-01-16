@@ -3,25 +3,17 @@
 
 <channels>
 <channel>
-<name>[COLORgold]Kids UK Tv Channels [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidschannels.txt</externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
-</channel>
-
-<channel>
-<name>[COLORlime]Kids Cartoons[/COLOR]</name>
+<name>[COLORgold]Kids Cartoons[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Cartoons.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info></info>
 </channel>
 
 <channel>
-<name>[COLORgold]Kids One Click HD Movies [/COLOR]</name>
+<name>[COLORlime]Kids One Click HD Movies [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidsmovies.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info></info>
 </channel>
