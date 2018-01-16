@@ -1,19 +1,19 @@
 <item>
-<title>Bob The Builder</title>
+<title>[COLORgold]Bob The Builder[/COLOR]</title>
 <utube>PLC9Qdm15h_EWQ3PpPHXN5FiqgnLlXiBnU</utube>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Bob_the_Builder_logo.svg/1280px-Bob_the_Builder_logo.svg.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Tom And Jerry</title>
+<title>[COLORlime]Tom And Jerry[/COLOR]</title>
 <utube>PLOLEQVkmI9eugSKUsrQBH0rxMN-qBLUyV</utube>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TomandJerryTitleCardc.jpg/250px-TomandJerryTitleCardc.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Fireman Sam</title>
+<title>[COLORgold]Fireman Sam[/COLOR]</title>
 <utube>PLAjLHbRT3Z_XzlV3NLVYuGrLBjilq-TXE</utube>
 <thumbnail>http://intheplayroom.co.uk/wp-content/uploads/2015/10/FiremanSamSafetyMonthImageLogo.jpg</thumbnail>
 <fanart></fanart>
