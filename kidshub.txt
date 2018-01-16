@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLORred]Kids UK Tv Channels [/COLOR]</name>
+<name>[COLORgold]Kids UK Tv Channels [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidschannels.txt</externallink>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLORred]Kids Movies [/COLOR]</name>
+<name>[COLORgold]Kids Movies [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidsmovies.txt</externallink>
 <fanart></fanart>
