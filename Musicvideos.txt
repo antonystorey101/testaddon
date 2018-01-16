@@ -1,12 +1,12 @@
 <item>
-<title>The Best Of Bruce Springsteen</title>
+<title>[COLORgold]The Best Of Bruce Springsteen[/COLOR]</title>
 <utube>PLC787958DD0D029F7</utube>
 <thumbnail>https://assets.trabiancdn.com/api/file/VfhUnneESKbrC9ykuwsh+20140908_Born_To_Run_1.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>The Best Of Jon Bon Jovi</title>
+<title>[COLORlime]The Best Of Jon Bon Jovi[/COLOR]</title>
 <utube>PL1A3A0C4FC18D12DD</utube>
 <thumbnail>https://i.pinimg.com/736x/aa/20/c7/aa20c70dad6b4b3bc0dcdb195176efb6--s-rock-bands-band-photos.jpg</thumbnail>
 <fanart></fanart>
