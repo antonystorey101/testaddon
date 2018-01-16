@@ -1,5 +1,5 @@
 <item>
-<title>The Great British Carp Off </title>
+<title>[COLORgold]The Great British Carp Off[/COLOR]</title>
 <utube>EH2-sdoHoiE</utube>
 <thumbnail>https://i.ytimg.com/vi/EH2-sdoHoiE/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
