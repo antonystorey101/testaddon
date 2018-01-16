@@ -1,1 +1,6 @@
-
+<item>
+<title>Finding Dory (1080p)</title>
+<link>http://dl.funsaber.net/animation/Finding.Dory.2016.1080p.5.1CH.Ganool.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/614gvjcNUeL._SY445_.jpg</thumbnail>
+<fanart></fanart>
+</item>
