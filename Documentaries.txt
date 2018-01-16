@@ -11,3 +11,12 @@
 <thumbnail>http://www.viralnovelty.net/wp-content/uploads/2014/12/117.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLORgold]The Bombing War[/COLOR]</title>
+<utube>F53kyTwr9Kg</utube>
+<thumbnail>https://www.penguin.co.uk/content/dam/catalogue/pim/editions/208/9780141003214/cover.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
