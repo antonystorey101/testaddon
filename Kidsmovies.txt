@@ -1,5 +1,5 @@
 <item>
-<title>[COLORgold]PLEASE PAUSE MOVIE ON START UP TO PREVENT BUFFERING[/COLOR]</title>
+<title>[COLORgold]PAUSE TO PREVENT BUFFERING[/COLOR]</title>
 <link>HHH</link>
 <thumbnail>fff</thumbnail>
 <fanart></fanart>
