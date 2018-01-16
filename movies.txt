@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLORgold]Batman Vs Superman (1080p)[/COLOR]</title>
+<title>[COLORgold]Batman Vs Superman (720p)[/COLOR]</title>
 <link>http://dl2.my98music.com/Data/Film/4.95/Batman%20v%20Superman%20Dawn%20of%20Justice%202016%20BluRay%20720p%20%5bFilmia%5d.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Batman_v_Superman_poster.jpg/220px-Batman_v_Superman_poster.jpg</thumbnail>
 <fanart></fanart>
