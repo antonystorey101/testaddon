@@ -6,7 +6,7 @@
 </item>
 
 <item>
-<title>[COLORlime]WORK IN PROGRESS, NEW MOVIES ADDED DAILY[/COLOR]</title>
+<title>[COLORlime]WORK IN PROGRESS MOVIES ADDED DAILY[/COLOR]</title>
 <link>HHH</link>
 <thumbnail>fff</thumbnail>
 <fanart></fanart>
