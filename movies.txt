@@ -6,49 +6,56 @@
 </item>
 
 <item>
-<title>Interstellar (1080p)</title>
+<title>[COLORlime]WORK IN PROGRESS, NEW MOVIES ADDED DAILY[/COLOR]</title>
+<link>HHH</link>
+<thumbnail>fff</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Interstellar (1080p)[/COLOR]</title>
 <link>http://dl.my-film.me/s1/Movie/Interstellar.2014/Interstellar.2014.IMAX.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Wonder Woman (1080p)</title>
+<title>[COLORlime]Wonder Woman (1080p)[/COLOR]</title>
 <link>http://sv4avadl.uploadet.ir/Movie/2017/06/Wonder.Woman.2017.HC.1080p.HDRip.6CH.AVADL.BiZ.mkv</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1Https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Dukirk (1080p)</title>
+<title>[COLORgold]Dukirk (1080p)[/COLOR]</title>
 <link>http://dl.my-film.me/s1/Movie/Dunkirk.2017/Dunkirk.2017.1080p.BluRay.x264.6CH.MkvCage-[My-Film].mkv</link>
 <thumbnail>http://nsa39.casimages.com/img/2017/12/05/17120502254677790.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Jeepers Creepers III (720p)</title>
+<title>[COLORlime]Jeepers Creepers III (720p)[/COLOR]</title>
 <link>http://d1.bi-seda.ir/Films/Jeepers.Creepers.III.2017/Jeepers.Creepers.3.2017.720p.HDTV.MkvCage-%5BBi-3-Seda.Ir%5D.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Moana (1080p)</title>
+<title>[COLORgold]Moana (1080p)[/COLOR]</title>
 <link>http://mc1.dl3enter.in/files/d2/Movie/2016/Moana/Moana.2016.1080p.mkv</link>
 <thumbnail>http://img.mysupermarket.co.uk/Live/Products_300/85/473185.jpg?v=20170514115008</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Beauty And The Beast (1080p)</title>
+<title>[COLORlime]Beauty And The Beast (1080p)[/COLOR]</title>
 <link>http://dl.my-film.me/s1/Movie/Beauty.and.the.Beast.2017/Beauty.and.the.Beast.2017.1080p.BluRay.x265.HEVC.28318254.mkv</link>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/11606343/p11606343_p_v8_at.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Batman Vs Superman (1080p)</title>
+<title>[COLORgold]Batman Vs Superman (1080p)[/COLOR]</title>
 <link>http://dl2.my98music.com/Data/Film/4.95/Batman%20v%20Superman%20Dawn%20of%20Justice%202016%20BluRay%20720p%20%5bFilmia%5d.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Batman_v_Superman_poster.jpg/220px-Batman_v_Superman_poster.jpg</thumbnail>
 <fanart></fanart>
