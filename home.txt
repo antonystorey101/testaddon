@@ -15,7 +15,7 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
-<info>All Content Found With A Simple Google Search</info>
+<info>[COLORgold]ALL CONTENT FOUND ONLINE WITH A POPULAR SEARCH ENGINE.[/COLOR] [COLORlime]PAUSE AT START TO PREVENT[/COLOR] BUFFERING</info>
 </channel>
 
 <channel>
