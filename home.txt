@@ -23,7 +23,7 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Documentaries.txt</externallink>
 <fanart></fanart>
-<info>All Content Streamed Via YouTube</info>
+<info>[COLORgold]ALL DOCUMENTARIES PULLED FROM THE INTERNET[/COLOR] [COLORlime]ONE CLICK PLAY [/COLOR]</info>
 </channel>
 
 <channel>
@@ -31,7 +31,7 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
-<info>All Content Streamed Via YouTube</info>
+<info>[COLORgold]INTERSTELLAR'S KID SECTION[/COLOR] [COLORlime]ALL CONTENT STREAMED FROM THE INTERNET[/COLOR]</info>
 </channel>
 
 <channel>
