@@ -15,5 +15,5 @@
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidsmovies.txt</externallink>
 <fanart></fanart>
-<info></info>
+<info>[COLORgold]ALL CONTENT FOUND ONLINE WITH A POPULAR SEARCH ENGINE.[/COLOR] [COLORlime]PAUSE AT START TO PREVENT BUFFERING[/COLOR]</info>
 </channel>
