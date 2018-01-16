@@ -1,4 +1,14 @@
 <item>
+<title>[COLORgold]PLEASE PAUSE MOVIE ON START UP TO PREVENT BUFFERING[/COLOR]</title>
+<link>HHH</link>
+<thumbnail>fff</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
 <title>Finding Dory (1080p)</title>
 <link>http://dl.funsaber.net/animation/Finding.Dory.2016.1080p.5.1CH.Ganool.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/614gvjcNUeL._SY445_.jpg</thumbnail>
