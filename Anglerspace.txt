@@ -1,0 +1,8 @@
+<channels>
+<channel>
+<name>[COLORgold]Interstellar TV[/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
+<fanart></fanart>
+<info>Live Tv Section Provided By Top IPTV Suppliers</info>
+</channel>
