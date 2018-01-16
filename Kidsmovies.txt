@@ -28,3 +28,10 @@
 <thumbnail>https://vignette.wikia.nocookie.net/awful-movies/images/c/c0/Cars-2.15102.jpg/revision/latest?cb=20161207181132</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]Despicable Me 2[/COLOR]</title>
+<link>http://www.freemediabd.com/ftpdata/Movies/English/Despicable%20Me%202%20(2013)/Despicable.Me.2.2013.720p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91gBjTI7yNL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+</item>
