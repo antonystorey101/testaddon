@@ -1,5 +1,5 @@
 <item>
-<title>[COLORgold]PAUSE TO PREVENT BUFFERING[/COLOR]</title>
+<title>[COLORgold]PAUSE AT START TO PREVENT BUFFERING[/COLOR]</title>
 <link>HHH</link>
 <thumbnail>fff</thumbnail>
 <fanart></fanart>
