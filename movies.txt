@@ -1,4 +1,11 @@
 <item>
+<title>[COLORgold]PAUSE AT START TO PREVENT BUFFERING[/COLOR]</title>
+<link>HHH</link>
+<thumbnail>fff</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Interstellar (1080p)</title>
 <link>http://dl.my-film.me/s1/Movie/Interstellar.2014/Interstellar.2014.IMAX.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
