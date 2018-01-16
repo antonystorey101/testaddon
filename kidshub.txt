@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>[COLORgold]Kids Cartoons[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Cartoons.txt</externallink>
 <fanart></fanart>
 <info></info>
@@ -12,7 +12,7 @@
 
 <channel>
 <name>[COLORlime]Kids One Click HD Movies [/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidsmovies.txt</externallink>
 <fanart></fanart>
 <info></info>
