@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Kids Movies [/COLOR]</name>
+<name>[COLORgold]Kids One Click HD Movies [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Kidsmovies.txt</externallink>
 <fanart></fanart>
