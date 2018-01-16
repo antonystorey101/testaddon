@@ -39,10 +39,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
-https://streamango.com/f/emdmnqloqspfnblp/Last_Flag_Flying_2017_720p_WEB-DL_999MB_MkvCage_mkv_mp4
+
 <item>
 <title>[COLORgold](Test)[/COLOR]</title>
-<link>http://mc1.dl3enter.in/files/d2/Movie/2016/Moana/Moana.2016.1080p.mkv</link>
+<link>https://streamango.com/f/emdmnqloqspfnblp/Last_Flag_Flying_2017_720p_WEB-DL_999MB_MkvCage_mkv_mp4</link>
 <thumbnail>http://img.mysupermarket.co.uk/Live/Products_300/85/473185.jpg?v=20170514115008</thumbnail>
 <fanart></fanart>
 </item>
