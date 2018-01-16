@@ -1,5 +1,5 @@
 <item>
-<title>The Seven Wonders Of The World</title>
+<title>[COLORgold]The Seven Wonders Of The World[/COLOR]</title>
 <utube>3aY9Se-J2ww</utube>
 <thumbnail>https://i.ytimg.com/vi/51Gm60GwmHY/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
