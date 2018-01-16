@@ -20,3 +20,10 @@
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORlime]The Last Day Of Dinosaurs[/COLOR]</title>
+<utube>gLkSGm7ba00</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51jbxCiUvjL._SY445_.jpg</thumbnail>
+<fanart></fanart>
+</item>
