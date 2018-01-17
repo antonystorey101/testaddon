@@ -6,8 +6,8 @@
 </item>
 
 <item>
-<title>BBC One HD (backup)</title>
-<link>https://easyview.eu/bbc-one/</link>
+<title>TEST</title>
+<link>http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/16.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
 <fanart></fanart>
 </item>
