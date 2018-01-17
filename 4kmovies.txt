@@ -11,3 +11,10 @@
 <thumbnail>http://images.static-bluray.com/movies/covers/164316_front.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]Batman VsVs Superman (4K)[/COLOR]</title>
+<link>http://saturnhosting.ddns.net:25461/movie/AntonyVOD/XqpRDSuEvG/96819.mkv</link>
+<thumbnail>http://4k.com/wp-content/uploads/2015/12/BatmanVSupermanUHDBDart.jpg</thumbnail>
+<fanart></fanart>
+</item>
