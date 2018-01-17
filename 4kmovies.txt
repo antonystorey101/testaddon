@@ -4,3 +4,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/915vKy4FdyL._SX342_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Sully (4K)[/COLOR]</title>
+<link>http://dl.my-film.me/Movie/2160p.4K/Sully.2016.4K.UltraHD.2160p.BluRay.DD2.0.x264-[My-Film].mkv</link>
+<thumbnail>http://images.static-bluray.com/movies/covers/164316_front.jpg</thumbnail>
+<fanart></fanart>
+</item>
