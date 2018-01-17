@@ -6,7 +6,7 @@
 </item>
 
 <item>
-<title>TEST</title>
+<title>TEST 1</title>
 <link>http://137.74.201.205:8000/live/qymoxfkj/7uRcU1x11p/4707.ts
 </link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
