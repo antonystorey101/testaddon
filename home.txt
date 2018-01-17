@@ -21,7 +21,7 @@
 <channel>
 <name>[COLORgold]Some 4K Movies [/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>http://dl.my-film.me/Movie/2160p.4K/Spider-Man.3.2007.4K.UltraHD.2160p.WEB-DL.DD5.1.x264-[My-Film].mkv</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/4kmovies.txt</externallink>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <info>[COLORgold]Some 4K Movies.[/COLOR][COLORlime]Don't Moan If They Won't Work For Your Setup![/COLOR]</info>
 </channel>
