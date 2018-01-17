@@ -41,9 +41,9 @@
 </item>
 
 <item>
-<title>[COLORgold](Test)[/COLOR]</title>
-<link>https://streamango.com/f/emdmnqloqspfnblp/Last_Flag_Flying_2017_720p_WEB-DL_999MB_MkvCage_mkv_mp4</link>
-<thumbnail>http://img.mysupermarket.co.uk/Live/Products_300/85/473185.jpg?v=20170514115008</thumbnail>
+<title>[COLORgold]Captain America Civil War (1080p)[/COLOR]</title>
+<link>http://pz10028.parspack.net/F/Captain%20America%20Civil%20War%202016/Captain.America.Civil.War.2016.1080p.6CH.ShAaNiG-%5BBi-3-Seda.Ir%5D.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51eG880u5wL.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
