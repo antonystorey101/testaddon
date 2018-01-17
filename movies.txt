@@ -60,3 +60,11 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Batman_v_Superman_poster.jpg/220px-Batman_v_Superman_poster.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLORlime]Transformers The Last Knight (1080p)[/COLOR]</title>
+<link>http://dl.my-film.me/s1/Movie/Transformers.The.Last.Knight.2017/Transformers.The.Last.Knight.2017.1080p.BluRay.mHD.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91QbPA063CL._SX342_.jpg</thumbnail>
+<fanart></fanart>
+</item>
