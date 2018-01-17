@@ -1,1 +1,6 @@
-
+<item>
+<title>[COLORgold]Spiderman 3 (4K)[/COLOR]</title>
+<link>http://dl.my-film.me/Movie/2160p.4K/Spider-Man.3.2007.4K.UltraHD.2160p.WEB-DL.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/915vKy4FdyL._SX342_.jpg</thumbnail>
+<fanart></fanart>
+</item>
