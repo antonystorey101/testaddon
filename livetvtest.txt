@@ -7,7 +7,7 @@
 
 <item>
 <title>BBC One HD (backup)</title>
-<link>https://easyview.eu/bbc-one/#fvp_bbc1,1m05s</link>
+<link>https://easyview.eu/bbc-one/#fvp_bbc1</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
 <fanart></fanart>
 </item>
