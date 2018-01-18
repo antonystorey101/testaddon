@@ -14,7 +14,7 @@
 <channel>
 <name>[COLORlime]Setellar Sports[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Sportsdirects.txt</externallink>
 <fanart></fanart>
 <info>[COLORgold]ALL SPORTS LIVE IN HD[/COLOR][COLORlime]SOURCED IN HOUSE FROM REPUTABLE IPTV SUPPLIERS![/COLOR]</info>
 </channel>
