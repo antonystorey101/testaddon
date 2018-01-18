@@ -7,7 +7,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Sky Sports Main Event HD[/COLOR]</name>
+<name>[COLORgold]Sky Sports Main Event (FHD)[/COLOR]</name>
 <thumbnail>http://img.skysports.com/tvlogos/channels/1301-Mobile-Logo.svg?</thumbnail>
 <externallink>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/117866.ts</externallink>
 <fanart></fanart>
