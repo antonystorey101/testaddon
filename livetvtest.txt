@@ -1,5 +1,5 @@
 <item>
-<title>[COLORgold]Inbetweeners (24/7)[/COLOR]/title>
+<title>[COLORgold]The Inbetweeners[/COLOR]</title>
 <link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/118193.ts</link>
 <thumbnail>https://s4.thcdn.com/productimg/0/600/600/01/10082701-1285664843-442000.jpg</thumbnail>
 <fanart></fanart>
