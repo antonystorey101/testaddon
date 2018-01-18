@@ -3,11 +3,11 @@
 
 <channels>
 <channel>
-<name>[COLORgold]Interstellar TV[/COLOR]</name>
+<name>[COLORgold]Interstellar 24/7 TV Shows[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
 <fanart></fanart>
-<info>Live Tv Section Provided By Top IPTV Suppliers</info>
+<info>[COLORgold]ALL 24/7 TV SHOWS [/COLOR][COLORlime]SOURCED IN HOUSE FROM REPUTABLE IPTV SUPPLIERS![/COLOR]</info>
 </channel>
 
 <channel>
