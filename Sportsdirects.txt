@@ -1,7 +1,13 @@
-<channel>
-<name>[COLORgold]Sky Sports Main Event (FHD)[/COLOR]</name>
-<thumbnail>http://img.skysports.com/tvlogos/channels/1301-Mobile-Logo.svg?</thumbnail>
-<externallink>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/117866.ts</externallink>
+<item>
+<title>[COLORgold]----[/COLOR] [COLORlime]SKY SPORTS [/COLOR][COLORgold] ----[/COLOR] </title>
+<link>HHH</link>
+<thumbnail>fff</thumbnail>
 <fanart></fanart>
-<info></info>
-</channel>
+</item>
+
+<item>
+<title>[COLORgold] Sky Sports Action (FHD)[/COLOR] </title>
+<link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/117884.ts</link>
+<thumbnail>http://img.skysports.com/tvlogos/channels/1333-Mobile-Logo.svg?</thumbnail>
+<fanart></fanart>
+</item>
