@@ -1,0 +1,15 @@
+<channel>
+<name>[COLORgold]-----SKY SPORTS-----[/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>ffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]SKY SPORTS HD AND FHD STREAMS [/COLOR][COLORlime]SOURCED IN HOUSE FROM REPUTABLE IPTV SUPPLIERS![/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLORgold]Sky Sports Main Event HD[/COLOR]</name>
+<thumbnail>http://img.skysports.com/tvlogos/channels/1301-Mobile-Logo.svg?</thumbnail>
+<externallink>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/117866.ts</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
