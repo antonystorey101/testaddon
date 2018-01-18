@@ -1,49 +1,6 @@
 <item>
-<title>BBC One HD</title>
-<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35516.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TEST 1</title>
-<link>http://137.74.201.205:8000/live/qymoxfkj/7uRcU1x11p/4707.ts
-</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BBC Two HD</title>
-<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35478.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BBC_Two_HD_flat.svg/1280px-BBC_Two_HD_flat.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ITV 1 HD</title>
-<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35511.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/ITV_HD_2013.svg/1200px-ITV_HD_2013.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Channel 4 HD</title>
-<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35492.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Only Fools And Horses (24/7)</title>
-<link>http://pagead2.googlesyndication.com/activeview?avi=Bq3r-CDddWobaKcSXtgfwvYGIDgDKxoPN7gUAABABOAHIAQHgAgDIA5sE4AQBiAW035_kA6AGGtIIBQiAARABwhMGGPn4iIoD&cid=CAASEuRogRZK973ZTI1gsqa7OOi1kg&id=osdtos&ti=1&adk=2507958419&tt=2391&bs=360,560&mtos=588,588,2383,2383,2383&tos=1067,107,1209,0,0&p=299,20,349,340&inapp=0&mcvt=2383&rs=3&ht=0&tfs=13021&tls=17872&mc=1&lte=1&bas=0&bac=1&bos=360,560&ps=360,1909&ss=360,640&pt=15485&deb=1-4-4-292-32-14&tvt=14759&is=360,300&op=1&iframe_loc=http%3A%2F%2Fwww.bbtsip.tv%2Famerican-dad.html&avms=geo&r=u&uc=49&tgt=BODY&cl=1&cec=27&clc=2&cac=0320x50&v=r20180108</link>
-<thumbnail>https://res.cloudinary.com/uktv/image/upload/v1428917306/fddledkjxilor1dkchmf.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Mrs. Brown's Boys (24/7)</title>
-<link>http://vs-hls-uk-live.edgesuite.net/pool_3/live/bbc_one_wales_hd/bbc_one_wales_hd.isml/bbc_one_wales_hd-pa4%3d128000-video%3d5070016.m3u8</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI1NGIwNzYtOTVlMS00ZGYwLWE0ZTktYzVmMGVlMmRmN2QxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<title>[COLORgold]Inbetweeners (24/7)[/COLOR]/title>
+<link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/118193.ts</link>
+<thumbnail>https://s4.thcdn.com/productimg/0/600/600/01/10082701-1285664843-442000.jpg</thumbnail>
 <fanart></fanart>
 </item>
