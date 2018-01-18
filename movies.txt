@@ -68,3 +68,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91QbPA063CL._SX342_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]Iron Man 3 (1080p)[/COLOR]</title>
+<link>http://saturnhosting.ddns.net:25461/movie/AntonyVOD/XqpRDSuEvG/93928.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8189A%2B9%2Bf9L._SY445_.jpg</thumbnail>
+<fanart></fanart>
+</item>
