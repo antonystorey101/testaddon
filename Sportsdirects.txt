@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLORgold] Sky Sports Action (HD)[/COLOR] </title>
-<link>http://sofaflixiptv.ddns.net:25461/live/Ant3/Letmein3/117884.ts</link>
+<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35989.ts</link>
 <thumbnail>http://www.sportingequals.org.uk/cmsUploads/fkFiles/sky2.png</thumbnail>
 <fanart></fanart>
 </item>
