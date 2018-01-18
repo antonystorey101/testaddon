@@ -6,7 +6,7 @@
 </item>
 
 <item>
-<title>[COLORgold] Sky Sports Action (FHD)[/COLOR] </title>
+<title>[COLORgold] Sky Sports Action (HD)[/COLOR] </title>
 <link>http://sofaflixiptv.ddns.net:25461/live/AshleyRestr3am/R3str3am1ng/117884.ts</link>
 <thumbnail>http://img.skysports.com/tvlogos/channels/1333-Mobile-Logo.svg?</thumbnail>
 <fanart></fanart>
