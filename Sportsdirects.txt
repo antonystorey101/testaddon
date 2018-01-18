@@ -13,7 +13,7 @@
 </item>
 
 <item>
-<title>[COLORgold] Sky Sports Action (SD)[/COLOR] </title>
+<title>[COLORlime] Sky Sports Action (SD)[/COLOR] </title>
 <link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35978.ts</link>
 <thumbnail>http://www.sportingequals.org.uk/cmsUploads/fkFiles/sky2.png</thumbnail>
 <fanart></fanart>
