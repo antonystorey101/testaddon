@@ -18,6 +18,7 @@
 <fanart></fanart>
 <info>[COLORgold]ALL SPORTS LIVE IN HD[/COLOR][COLORlime]SOURCED IN HOUSE FROM REPUTABLE IPTV SUPPLIERS![/COLOR]</info>
 </channel>
+
 <channel>
 <name>[COLORgold]HD One Click Movies[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
