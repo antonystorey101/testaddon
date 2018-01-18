@@ -13,7 +13,7 @@
 </item>
 
 <item>
-<title>[COLORlime]Only Fools & Horses (Specials)[/COLOR]</title>
+<title>[COLORgold]Only Fools & Horses (Specials)[/COLOR]</title>
 <link>http://saturnhosting.ddns.net:25461/live/AntonyVOD/XqpRDSuEvG/118194.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512QDEHE3DL.jpg</thumbnail>
 <fanart></fanart>
