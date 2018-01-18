@@ -10,8 +10,16 @@
 <info>[COLORgold]ALL 24/7 TV SHOWS [/COLOR][COLORlime]SOURCED IN HOUSE FROM REPUTABLE IPTV SUPPLIERS![/COLOR]</info>
 </channel>
 
+
 <channel>
-<name>[COLORlime]HD One Click Movies[/COLOR]</name>
+<name>[COLORlime]Setellar Sports[/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL SPORTS LIVE IN HD[/COLOR][COLORlime]SOURCED IN HOUSE FROM REPUTABLE IPTV SUPPLIERS![/COLOR]</info>
+</channel>
+<channel>
+<name>[COLORgold]HD One Click Movies[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
@@ -19,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Some 4K Movies [/COLOR]</name>
+<name>[COLORlime]Some 4K Movies [/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/4kmovies.txt</externallink>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
@@ -27,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Documentaries[/COLOR]</name>
+<name>[COLORgold]Documentaries[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Documentaries.txt</externallink>
 <fanart></fanart>
@@ -35,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Kids Plannet [/COLOR]</name>
+<name>[COLORlime]Kids Plannet [/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
@@ -43,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Music Video Playlists (Autoplay)[/COLOR]</name>
+<name>[COLORgold]Music Video Playlists (Autoplay)[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
 <fanart></fanart>
@@ -51,7 +59,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Live In Concert[/COLOR]</name>
+<name>[COLORlime]Live In Concert[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
 <fanart></fanart>
@@ -59,7 +67,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Anglers Space[/COLOR]</name>
+<name>[COLORgold]Anglers Space[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Anglerspace.txt</externallink>
 <fanart></fanart>
