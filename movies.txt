@@ -104,3 +104,11 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORgold] (TEST)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Baby.Driver.2017.HDRip.XviD.AC3-EVO/Baby.Driver.2017.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>http://nsa39.casimages.com/img/2017/12/05/17120502254677790.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
