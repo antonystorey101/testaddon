@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLORgold]Interstellar (1080p)[/COLOR]</title>
-<link>http://dl.my-film.me/s1/Movie/Interstellar.2014/Interstellar.2014.IMAX.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Interstellar%20(2014)%20(2014)%20[1080p]/Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
@@ -80,5 +80,12 @@
 <title>[COLORlime]Pirates Of The Caribbean: Dead Men Tell No Tales[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HDRip.XviD.AC3-EVO/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Guardians Of  The Galaxy (1080p)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Guardians%20of%20the%20Galaxy%20(2014)%20[1080p]/Guardians.of.the.Galaxy.2014.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>http://136.243.64.147/Shared/movies/New/Guardians%20of%20the%20Galaxy%20(2014)%20[1080p]/WWW.YTS.RE.jpg</thumbnail>
 <fanart></fanart>
 </item>
