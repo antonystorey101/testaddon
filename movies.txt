@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLORgold]Interstellar (1080p)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Interstellar%20(2014)%20(2014)%20[1080p]/Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4</link>
+<link>https://tinyurl.com/yclcn4n8</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
