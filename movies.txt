@@ -123,3 +123,10 @@
 <link>http://136.243.64.147/Shared/movies/New/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://www.sonypictures.com/movies/spidermanhomecoming/assets/images/onesheet.jpg</thumbnail>
 <fanart></fanart>
+
+<item>
+<title>[COLORgold] T2: Trainspotting[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO[SN]/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTE1ODkzMl5BMl5BanBnXkFtZTgwMTQ1MTg5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
