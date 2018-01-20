@@ -50,6 +50,7 @@
 <fanart></fanart>
 </item>
 
+<item>
 <title>[COLORlime]The Secret Life Of Pets (1080p)[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/The.Secret.Life.of.Pets.2016.HDRip.XViD.AC3-ETRG/The.Secret.Life.of.Pets.2016.HDRip.XViD.AC3-ETRG.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
