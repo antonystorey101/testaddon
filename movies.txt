@@ -13,49 +13,49 @@
 </item>
 
 <item>
-<title>[COLORgold]Interstellar (1080p)[/COLOR]</title>
+<title>[COLORgold]Interstellar[/COLOR]</title>
 <link>https://tinyurl.com/yclcn4n8</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime]Wonder Woman (1080p)[/COLOR]</title>
+<title>[COLORlime]Wonder Woman[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Wonder.Woman.2017.HDRip.XviD.AC3-EVO/Wonder.Woman.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1Https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold]Dukirk (1080p)[/COLOR]</title>
+<title>[COLORgold]Dunkirk[/COLOR]</title>
 <link>http://dl.my-film.me/s1/Movie/Dunkirk.2017/Dunkirk.2017.1080p.BluRay.x264.6CH.MkvCage-[My-Film].mkv</link>
 <thumbnail>http://nsa39.casimages.com/img/2017/12/05/17120502254677790.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime]Jeepers Creepers III (720p)[/COLOR]</title>
+<title>[COLORlime]Jeepers Creepers III [/COLOR]</title>
 <link>http://d1.bi-seda.ir/Films/Jeepers.Creepers.III.2017/Jeepers.Creepers.3.2017.720p.HDTV.MkvCage-%5BBi-3-Seda.Ir%5D.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold]Captain America Civil War (1080p)[/COLOR]</title>
+<title>[COLORgold]Captain America Civil War[/COLOR]</title>
 <link>http://pz10028.parspack.net/F/Captain%20America%20Civil%20War%202016/Captain.America.Civil.War.2016.1080p.6CH.ShAaNiG-%5BBi-3-Seda.Ir%5D.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51eG880u5wL.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime]Beauty And The Beast (1080p)[/COLOR]</title>
+<title>[COLORlime]Beauty And The Beast[/COLOR]</title>
 <link>http://dl.my-film.me/s1/Movie/Beauty.and.the.Beast.2017/Beauty.and.the.Beast.2017.1080p.BluRay.x265.HEVC.28318254.mkv</link>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/11606343/p11606343_p_v8_at.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold]Batman Vs Superman (720p)[/COLOR]</title>
+<title>[COLORgold]Batman Vs Superman[/COLOR]</title>
 <link>http://dl2.my98music.com/Data/Film/4.95/Batman%20v%20Superman%20Dawn%20of%20Justice%202016%20BluRay%20720p%20%5bFilmia%5d.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Batman_v_Superman_poster.jpg/220px-Batman_v_Superman_poster.jpg</thumbnail>
 <fanart></fanart>
@@ -63,14 +63,14 @@
 
 
 <item>
-<title>[COLORlime]Transformers The Last Knight (1080p)[/COLOR]</title>
+<title>[COLORlime]Transformers The Last Knight[/COLOR]</title>
 <link>http://dl.my-film.me/s1/Movie/Transformers.The.Last.Knight.2017/Transformers.The.Last.Knight.2017.1080p.BluRay.mHD.DD5.1.x264-[My-Film].mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91QbPA063CL._SX342_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold]Iron Man 3 (1080p)[/COLOR]</title>
+<title>[COLORgold]Iron Man 3[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Iron%20Man%203%20(2013)%20[1080p]/Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/8189A%2B9%2Bf9L._SY445_.jpg</thumbnail>
 <fanart></fanart>
@@ -84,21 +84,21 @@
 </item>
 
 <item>
-<title>[COLORgold]Guardians Of  The Galaxy (1080p)[/COLOR]</title>
+<title>[COLORgold]Guardians Of  The Galaxy[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Guardians.of.the.Galaxy.2014.1080p.BluRay.x264-SPARKS[rarbg]/Guardians.of.the.Galaxy.2014.1080p.BluRay.x264-SPARKS.mkv</link>
 <thumbnail>http://136.243.64.147/Shared/movies/New/Guardians%20of%20the%20Galaxy%20(2014)%20[1080p]/WWW.YTS.RE.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime]Geostorm (720p)[/COLOR]</title>
+<title>[COLORlime]Geostorm[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Geostorm.mkv</link>
 <thumbnail>https://pics.filmaffinity.com/geostorm-475853429-large.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold]Split (1080p)[/COLOR]</title>
+<title>[COLORgold]Split[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Split.2016.1080p.HC.HDRip.X264.AC3-EVO[EtHD]/Split.2016.1080p.HC.HDRip.X264.AC3-EVO[EtHD].mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2M3NTVlYTAtYWMyMi00OGY0LWE2NzMtMWI2MmJkN2Q3ZGQ4L2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -112,21 +112,21 @@
 </item>
 
 <item>
-<title>[COLORgold] Logan (1080p)[/COLOR]</title>
+<title>[COLORgold]Logan[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Logan.2017.DVDRip.XviD.AC3-EVO/Logan.2017.DVDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime] Spiderman: Homecoming[/COLOR]</title>
+<title>[COLORlime]Spiderman: Homecoming[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://www.sonypictures.com/movies/spidermanhomecoming/assets/images/onesheet.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold] T2: Trainspotting[/COLOR]</title>
+<title>[COLORgold]T2: Trainspotting[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO[SN]/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTE1ODkzMl5BMl5BanBnXkFtZTgwMTQ1MTg5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
