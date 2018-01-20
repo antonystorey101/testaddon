@@ -21,7 +21,7 @@
 
 <item>
 <title>[COLORlime]Wonder Woman (1080p)[/COLOR]</title>
-<link>http://sv4avadl.uploadet.ir/Movie/2017/06/Wonder.Woman.2017.HC.1080p.HDRip.6CH.AVADL.BiZ.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Wonder.Woman.2017.HDRip.XviD.AC3-EVO/Wonder.Woman.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1Https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
