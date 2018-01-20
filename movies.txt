@@ -123,10 +123,18 @@
 <link>http://136.243.64.147/Shared/movies/New/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://www.sonypictures.com/movies/spidermanhomecoming/assets/images/onesheet.jpg</thumbnail>
 <fanart></fanart>
+</item>
 
 <item>
 <title>[COLORgold] T2: Trainspotting[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO[SN]/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTE1ODkzMl5BMl5BanBnXkFtZTgwMTQ1MTg5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Transformers: Revenge Of The Fallen[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Transformers.Revenge.Of.The.Fallen.2009.1080p.BluRay.x264.AC3-ETRG/Transformers.Revenge.Of.The.Fallen.2009.1080p.BluRay.x264.AC3-ETRG.mp4</link>
+<thumbnail>https://static.rogerebert.com/uploads/movie/movie_poster/transformers-revenge-of-the-fallen-2009/large_kVISXAXDYhjQCfu50QZeCCzzbPv.jpg</thumbnail>
 <fanart></fanart>
 </item>
