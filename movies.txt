@@ -96,3 +96,11 @@
 <thumbnail>https://pics.filmaffinity.com/geostorm-475853429-large.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]Split (1080p)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Split.2016.1080p.BRRip.x264.AAC-ETRG/Split.2016.1080p.BRRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2M3NTVlYTAtYWMyMi00OGY0LWE2NzMtMWI2MmJkN2Q3ZGQ4L2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
