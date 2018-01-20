@@ -138,3 +138,12 @@
 <thumbnail>https://static.rogerebert.com/uploads/movie/movie_poster/transformers-revenge-of-the-fallen-2009/large_kVISXAXDYhjQCfu50QZeCCzzbPv.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Starwars: Rogue One[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Rogue.One.A.Star.Wars.Story.2016.1080p.BluRay.6CH.ShAaNiG.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
