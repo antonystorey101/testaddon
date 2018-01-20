@@ -118,4 +118,8 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORlime] Spiderman: Homecoming[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO/Spider-Man.Homecoming.2017.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://www.sonypictures.com/movies/spidermanhomecoming/assets/images/onesheet.jpg</thumbnail>
+<fanart></fanart>
