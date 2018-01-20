@@ -89,3 +89,10 @@
 <thumbnail>http://136.243.64.147/Shared/movies/New/Guardians%20of%20the%20Galaxy%20(2014)%20[1080p]/WWW.YTS.RE.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Geostorm (720p)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Geostorm.mkv</link>
+<thumbnail>https://pics.filmaffinity.com/geostorm-475853429-large.jpg</thumbnail>
+<fanart></fanart>
+</item>
