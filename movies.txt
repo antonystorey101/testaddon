@@ -75,3 +75,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/8189A%2B9%2Bf9L._SY445_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Pirates Of The Caribbean: Dead Men Tell No Tales[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HDRip.XviD.AC3-EVO/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
