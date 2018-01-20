@@ -105,9 +105,16 @@
 </item>
 
 <item>
-<title>[COLORgold] (TEST)[/COLOR]</title>
+<title>[COLORlime] Baby Driver[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/Baby.Driver.2017.HDRip.XviD.AC3-EVO/Baby.Driver.2017.HDRip.XviD.AC3-EVO.avi</link>
 <thumbnail>http://nsa39.casimages.com/img/2017/12/05/17120502254677790.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold] Logan (1080p)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Logan.2017.DVDRip.XviD.AC3-EVO/Logan.2017.DVDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
