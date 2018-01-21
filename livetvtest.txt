@@ -33,7 +33,7 @@
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORgold]Porridge (Box Set)[/COLOR]</title>
 <link>http://archive.org/download/247podge/247podge.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71Ql82YA9jL._SY445_.jpg</thumbnail>
