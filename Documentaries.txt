@@ -48,3 +48,10 @@
 <thumbnail>https://i.ytimg.com/vi/RChQtlCeUgM/hqdefault.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]First Apocalypse: Extinction Of The Dinosaurs[/COLOR]</title>
+<utube>KpKCmnJJm3c</utube>
+<thumbnail>https://i.ytimg.com/vi/sEFjuNkY0yw/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
