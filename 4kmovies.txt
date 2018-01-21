@@ -13,8 +13,8 @@
 </item>
 
 <item>
-<title>[COLORgold]Batman Vs Superman (4K)[/COLOR]</title>
-<link>http://saturnhosting.ddns.net:25461/movie/AntonyVOD/XqpRDSuEvG/96819.mkv</link>
-<thumbnail>http://4k.com/wp-content/uploads/2015/12/BatmanVSupermanUHDBDart.jpg</thumbnail>
+<title>[COLORgold]The Amazing Spiderman 2 (4K)[/COLOR]</title>
+<link>http://dl.my-film.me/Movie/2160p.4K/The.Amazing.Spider.Man.2.2014.4K.UltraHD.WEB-DL.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://images2.static-bluray.com/movies/covers/154699_large.jpg</thumbnail>
 <fanart></fanart>
 </item>
