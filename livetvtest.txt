@@ -53,3 +53,17 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91-kgNFubZL._SY445_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Shameless (Box Set)[/COLOR]</title>
+<link>http://archive.org/download/247shame/247shame.mp4</link>
+<thumbnail>https://www.dropbox.com/s/ddrcn0g7b5lu43b/15117863279601053911460.jpg?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]Family Guy 1 (YouTube)[/COLOR]</title>
+<utube>KLKM0pwTeXw</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81APow%2BJiLL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+</item>
