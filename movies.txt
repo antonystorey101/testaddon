@@ -92,7 +92,7 @@
 
 <item>
 <title>[COLORlime]Geostorm[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Geostorm.2017.KORSUB.HDRip.XviD.MP3-STUTTERSHIT/</link>
+<link>http://136.243.64.147/Shared/movies/New/Geostorm.2017.720p.KORSUB.HDRip.XviD.MP3-STUTTERSHIT</link>
 <thumbnail>https://pics.filmaffinity.com/geostorm-475853429-large.jpg</thumbnail>
 <fanart></fanart>
 </item>
