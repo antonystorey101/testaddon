@@ -18,3 +18,10 @@
 <thumbnail>http://images2.static-bluray.com/movies/covers/154699_large.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]TimeScapes (4K)[/COLOR]</title>
+<link>http://dl.my-film.me/Movie/2160p.4K/TimeScapes.2012.2304p.CineForm.DD5.1.x264-[My-Film].mk</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81XA%2BQkooYL._SL1200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
