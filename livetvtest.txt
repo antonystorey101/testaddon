@@ -1,20 +1,41 @@
 <item>
-<title>[COLORgold]Mrs. Brown's Boys[/COLOR]</title>
+<title>[COLORgold]The Inbetweeners (Box Set)[/COLOR]</title>
+<link>http://archive.org/download/247inbet/247inbet.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Mrs. Brown's Boys (Box Set)[/COLOR]</title>
 <link>http://archive.org/download/24mbbs/247mbbs.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime]Kitchen Nightmares (USA) [/COLOR]</title>
+<title>[COLORgold]Kitchen Nightmares (YouTube) [/COLOR]</title>
 <utube>PLum50h_rWpG4QQOifQeDFZyfZYH3Qx76i</utube>
 <thumbnail>https://www.sanity.com.au/media/Images/fullimage/269450/TSA_2122560_2015-17-4--00-36-37.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORgold]Only Fools & Horses (Specials)[/COLOR]</title>
+<title>[COLORlime]Only Fools & Horses (Xmas Specials)[/COLOR]</title>
 <link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143950.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512QDEHE3DL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]The Blackadder (Box Set)[/COLOR]</title>
+<link>http://archive.org/download/247black/247black.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Bob The Builder (Box Set)[/COLOR]</title>
+<link>http://archive.org/download/247bob/247bob.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
 <fanart></fanart>
 </item>
