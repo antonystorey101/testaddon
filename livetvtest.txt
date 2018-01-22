@@ -50,7 +50,7 @@
 <item>
 <title>[COLORgold]Citizen Khan(Box Set)[/COLOR]</title>
 <link>http://archive.org/download/247citizen/247citizen.mp4</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91-kgNFubZL._SY445_.jpg</thumbnail>
+<thumbnail>https://img.yescdn.ru/2016/01/14/poster/season2.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -62,8 +62,8 @@
 </item>
 
 <item>
-<title>[COLORgold]South Park (YouTube)[/COLOR]</title>
-<utube>JPyOCM2OZtw</utube>
+<title>[COLORgold]Only Fools And Horses[/COLOR]</title>
+<link>https://github.com/antonystorey101/testaddon/raw/master/OFAH.txt</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51URcOxfMOL._SY445_.jpg</thumbnail>
 <fanart></fanart>
 </item>
