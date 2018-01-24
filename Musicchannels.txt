@@ -1,1 +1,6 @@
-
+<item>
+<title>[COLORgold]Music Choice (Y2K)[/COLOR]</title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/142496.ts</link>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/4/43/MC_Music_Choice_2012.jpg/revision/latest?cb=20120201223308</thumbnail>
+<fanart></fanart>
+</item>
