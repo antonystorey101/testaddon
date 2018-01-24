@@ -70,7 +70,7 @@
 <channel>
 <name>[COLORgold]Music Choice (Live)[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicchannels.txt</externallink>
 <fanart></fanart>
 <info>[COLORgold]INTERSTELLAR'S MUSIC CHOICE LIVE STREAMS[/COLOR] [COLORlime]ALL CONTENT STREAMED FROM PREMIUM MUSIC CHOICE SUBSCRIPTION[/COLOR]</info>
 </channel>
