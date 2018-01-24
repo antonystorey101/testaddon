@@ -69,8 +69,10 @@
 </item>
 
 <item>
-<title>[COLORlime]The Orville[/COLOR]</title>
-<link>http://files1.vodiptv.org/247channels/247TheOrville.mp4</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NTAxNzk2M15BMl5BanBnXkFtZTgwMzYwODEyMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<title>[COLORgold]Gavin & Stacey (Box Set)[/COLOR]</title>
+<link>http://files1.vodiptv.org/247channels/gavin.and.stacey.s01e01.dvdrip.xvid.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
 </item>
