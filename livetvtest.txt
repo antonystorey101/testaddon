@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLORlime]Mrs. Brown's Boys (Box Set)[/COLOR]</title>
-<link>http://archive.org/download/24mbbs/247mbbs.mp4</link>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/221642.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -28,35 +28,35 @@
 
 <item>
 <title>[COLORgold]The Blackadder (Box Set)[/COLOR]</title>
-<link>http://archive.org/download/247black/247black.mp4</link>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/221639.ts/link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71kq2KG94AL._SL1121_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]Porridge (Box Set)[/COLOR]</title>
-<link>http://archive.org/download/247podge/247podge.mp4</link>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/221643.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71Ql82YA9jL._SY445_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]Bob The Builder (Box Set)[/COLOR]</title>
-<link>http://archive.org/download/247bob/247bob.mp4</link>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/221640.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51gdxgzlcYL._SY445_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]Citizen Khan(Box Set)[/COLOR]</title>
-<link>http://archive.org/download/247citizen/247citizen.mp4</link>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/221645.ts</link>
 <thumbnail>https://img.yescdn.ru/2016/01/14/poster/season2.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]Shameless (Box Set)[/COLOR]</title>
-<link>http://archive.org/download/247shame/247shame.mp4</link>
+<link>http://archive.org/download/247sham1/247shame247sham1.mp4</link>
 <thumbnail>https://www.dropbox.com/s/ddrcn0g7b5lu43b/15117863279601053911460.jpg?dl=1</thumbnail>
 <fanart></fanart>
 </item>
