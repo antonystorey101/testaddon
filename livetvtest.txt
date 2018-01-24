@@ -61,16 +61,16 @@
 <fanart></fanart>
 </item>
 
-<channel>
+<item>
 <title>[COLORgold]Only Fools And Horses S1-S3[/COLOR]</title>
 <link>http://files1.vodiptv.org/247channels/247OFAHS1S3.avi</link>
 <thumbnail>https://img.yescdn.ru/2016/01/14/poster/season2.jpg</thumbnail>
 <fanart></fanart>
-</channel>
+</item>
 
-<channel>
+<item>
 <title>[COLORlime]The Orville[/COLOR]</title>
 <link>http://files1.vodiptv.org/247channels/247TheOrville.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NTAxNzk2M15BMl5BanBnXkFtZTgwMzYwODEyMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
-</channel>
+</item>
