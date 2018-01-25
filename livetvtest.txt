@@ -1,5 +1,5 @@
 <item>
-<title>[COLORgold]2 Pints & Packet ofof Crisps (Box Set 24x7)[/COLOR]</title>
+<title>[COLORgold]2 Pints & Packet Of Crisps (Box Set 24x7)[/COLOR]</title>
 <link>http://highroller.space:25461/live/ant76541/45814987/35659.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
 <fanart></fanart>
