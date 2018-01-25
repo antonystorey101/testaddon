@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLORlime]Mrs. Brown's Boys (Box Set)[/COLOR]</title>
-<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/221642.ts</link>
+<link>http://162.218.64.63:83/live/yerotS.ynotnA/3426362165126/221642.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91TdJzJP5pL._SL1500_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -70,7 +70,7 @@
 
 <item>
 <title>[COLORgold]Gavin & Stacey (Box Set)[/COLOR]</title>
-<link>http://files1.vodiptv.org/247channels/gavin.and.stacey.s01e01.dvdrip.xvid.mp4</link>
+<link>http://162.218.64.63:83/live/yerotS.ynotnA/3426362165126/221661.ts</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
 <fanart></fanart>
 </item>
