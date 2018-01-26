@@ -159,3 +159,10 @@
 <thumbnail>https://i.pinimg.com/originals/cd/24/40/cd244064ca932be6cc349d2a52ae9e03.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]X-Men (2000)[/COLOR]</title>
+<link>http://dl.my-film.me/Movie/BluRay%20720p/X-Men.2000.720P%20--%5BMy-Film%5D.mkv</link>
+<thumbnail>https://hellhorror.com/images/inTheaters/origs/f2995-x-men-poster.jpg</thumbnail>
+<fanart></fanart>
+</item>
