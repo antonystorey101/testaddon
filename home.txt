@@ -36,7 +36,15 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Documentaries[/COLOR]</name>
+<name>[COLORgold]Interstellar's UK Sit Com's [/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/4kmovies.txt</externallink>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<info>[COLORgold]Some 4K Movies.[/COLOR][COLORlime]Don't Moan If They Won't Work For Your Setup![/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLORlime]Documentaries[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Documentaries.txt</externallink>
 <fanart></fanart>
@@ -44,7 +52,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Kids Plannet [/COLOR]</name>
+<name>[COLORgold]Kids Plannet [/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
 <fanart></fanart>
@@ -52,7 +60,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Music Video Playlists (Autoplay)[/COLOR]</name>
+<name>[COLORlime]Music Video Playlists (Autoplay)[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
 <fanart></fanart>
@@ -60,7 +68,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Live In Concert[/COLOR]</name>
+<name>[COLORgold]Live In Concert[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Liveconcerts.txt</externallink>
 <fanart></fanart>
@@ -68,7 +76,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Music Choice (Live)[/COLOR]</name>
+<name>[COLORlime]Music Choice (Live)[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicchannels.txt</externallink>
 <fanart></fanart>
@@ -76,7 +84,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Anglers Space[/COLOR]</name>
+<name>[COLORgold]Anglers Space[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Anglerspace.txt</externallink>
 <fanart></fanart>
