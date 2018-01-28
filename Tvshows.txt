@@ -37,7 +37,7 @@
 <channel>
 <name>[COLORgold]The Golden Girls[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDE0ODU0Nl5BMl5BanBnXkFtZTcwMjg5MDcyMQ@@._V1_UY268_CR6,0,182,268_AL_.jpg</thumbnail>
-<externallink>fffff</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Goldengirls.txt</externallink>
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
