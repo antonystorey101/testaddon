@@ -4,3 +4,38 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]SPUNK! (S01 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%201/02%20Spunk.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]BONE WITH THE WIND! (S01 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%201/03%20Bone%20With%20The%20Wind.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]ANGRY WANGRY! (S01 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%201/04%20Angry%20Wangry.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]LARD! (S01 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%201/05%20Lard.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]UGLY BABIES! (S01 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%201/06%20Ugly%20Babies.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
