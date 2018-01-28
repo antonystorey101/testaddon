@@ -1,20 +1,8 @@
-<layouttype>thumbnail</layouttype>
-
-
-<channels>
-<channel>
-<name>[COLORgold] Series 1[/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51SZSH64T6L._AC_UL320_SR228,320_.jpg</thumbnail>
-<externallink>ffff</externallink>
+<item>
+<title>[COLORgold]BIG BROTHER! (S01 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E01%20-%20Big%20Brother.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
-</channel>
+</item>
 
-<channel>
-<name>[COLORlime]Series 2 [/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ZDYZ0XSVL.jpg</thumbnail>
-<externallink>fffff</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
 
