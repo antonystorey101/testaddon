@@ -9,3 +9,27 @@
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
+
+<channel>
+<name>[COLORlime]Red Dwarf[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YYMY04GJL._SY445_.jpg</thumbnail>
+<externallink>fffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLORgold]Only Fools & Horses[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YYMY04GJL._SY445_.jpg</thumbnail>
+<externallink>fffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLORgold]The Royal Family[/COLOR]</name>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<externallink>fffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
