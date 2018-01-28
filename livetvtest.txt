@@ -75,4 +75,11 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORlime]Dinnerladies (YouTube) [/COLOR]</title>
+<utube>PLDyCcI2Pa72Id0-fu_MLc2TSPFhWEYMRP</utube>
+<thumbnail>http://enacademic.com/pictures/enwiki/68/Dinnerladies_Box_Set_Cover.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 </item>
