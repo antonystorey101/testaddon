@@ -1,0 +1,6 @@
+<item>
+<title>[COLORgold]THE PILOT! (S01 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Golden%20Girls/The%20Golden%20Girls%2001-01%20The%20Pilot.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDE0ODU0Nl5BMl5BanBnXkFtZTcwMjg5MDcyMQ@@._V1_UY268_CR6,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
