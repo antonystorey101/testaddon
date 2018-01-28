@@ -1,0 +1,6 @@
+<item>
+<title>[COLORgold]THE END! (S01 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Red%20Dwarf/Red%20Dwarf%20-%20s01e01%20-%20The%20End.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTU2OTk1M2ItNTczMi00MzY0LWExMDEtZWYwZjczZmM4MWIxXkEyXkFqcGdeQXVyNTUyMjc0NDc@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
