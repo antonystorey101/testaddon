@@ -33,3 +33,27 @@
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
+
+<channel>
+<name>[COLORgold]The Golden Girls[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDE0ODU0Nl5BMl5BanBnXkFtZTcwMjg5MDcyMQ@@._V1_UY268_CR6,0,182,268_AL_.jpg</thumbnail>
+<externallink>fffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLORlime]The Inbetweeners[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<externallink>ffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLORgold]Fawlty Towers[/COLOR]</name>
+<thumbnail>https://s3.thcdn.com/productimg/0/960/960/82/10054182-1405526433-461205.jpg</thumbnail>
+<externallink>fffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
