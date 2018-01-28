@@ -12,7 +12,7 @@
 
 <channel>
 <name>[COLORlime]Red Dwarf[/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YYMY04GJL._SY445_.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTU2OTk1M2ItNTczMi00MzY0LWExMDEtZWYwZjczZmM4MWIxXkEyXkFqcGdeQXVyNTUyMjc0NDc@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
 <externallink>fffff</externallink>
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
