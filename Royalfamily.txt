@@ -1,0 +1,6 @@
+<item>
+<title>[COLORgold]BILL'S, BILL'S, BILL'S! (S01 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x01.-.Bills.Bills.Bills.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
