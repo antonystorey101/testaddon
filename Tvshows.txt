@@ -1,1 +1,11 @@
+<layouttype>thumbnail</layouttype>
 
+
+<channels>
+<channel>
+<name>[COLORgold]Two Pints & A Packet Of Crisps[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<externallink>ffffff</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
+</channel>
