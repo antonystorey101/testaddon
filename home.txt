@@ -38,7 +38,7 @@
 <channel>
 <name>[COLORgold]Interstellar's UK Sit Com's[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/4kmovies.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Tvshows.txt</externallink>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <info>[COLORgold]ONE CLICK PLAY BRITISH TV SHOWS.[/COLOR] [COLORlime]ALL HOSTED ON PRIVATE SERVERS.[/COLOR]</info>
 </channel>
