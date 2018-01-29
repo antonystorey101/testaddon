@@ -36,7 +36,7 @@
 </channel>
 
 <channel>
-<name>[COLORgold]Interstellar's UK Sit Com's[/COLOR]</name>
+<name>[COLORgold]Interstellar's Classic UK Box Sets[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Tvshows.txt</externallink>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
