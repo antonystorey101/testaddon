@@ -1,0 +1,6 @@
+<item>
+<title>[COLORgold]A TOUCH OF CLASS! (S01 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Fawlty%20Towers%20BBC%20series%20complete%20(Special%20Edition)%20(britishcanada.org)/Fawlty%20Towers%20-%20A%20touch%20of%20class.avi</link>
+<thumbnail>https://s3.thcdn.com/productimg/0/960/960/82/10054182-1405526433-461205.jpg</thumbnail>
+<fanart></fanart>
+</item>
