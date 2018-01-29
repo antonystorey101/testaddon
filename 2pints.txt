@@ -53,3 +53,52 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]ON THE BLOB! (S02 E01)[/COLOR]</title>
+<link>http://interstellarhosting.hopto.org/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%202/01%20On%20The%20Blob.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]BUNGLE! (S02 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%202/02%20Bungle.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]DIRTY GIRLS! (S02 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%202/03%20Dirty%20Girls.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]VOMIT! (S02 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%202/04%20Vomit.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]CRUSTY CURTAINS! (S02 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%202/05%20Crusty%20Curtains.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]MO, MO AND PIGSY! (S02 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%202/06%20Mo%20Mo%20And%20Pigsy.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON THREE~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
