@@ -102,3 +102,51 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]THE FASHION SHOW! (S03 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E01.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE GIG AND THE GIRLFRIEND! (S03 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E02.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]WILL'S DILEMMA! (S03 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E03.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE TRIP TO WARWICK! (S03 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E04.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]WILL IS HOME ALONE! (S03 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E05.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE CAMPING TRIP! (S03 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E06.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORgold]END OF TERM! (S03 E07)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S03E07.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
