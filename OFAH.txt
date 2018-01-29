@@ -7,28 +7,28 @@
 
 <item>
 <title>[COLORgold]BIG BROTHER! (S01 E01)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E01%20-%20Big%20Brother.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E01.Big.Brother.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]GO WEST YOUNG MAN! (S01 E02)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E02%20-%20Go%20West%20Young%20Man.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E02.Go.West.Young.Man.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]CASH AND CURRY! (S01 E03)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E03%20-%20Cash%20And%20Curry.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E03.Cash.And.Curry.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]SECOND TIME AROUND! (S01 E04)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E04%20-%20The%20Second%20Time%20Around.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E04.The.Second.Time.Around.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -36,14 +36,14 @@
 
 <item>
 <title>[COLORgold]A SLOW BUS TO CHINGFORD! (S01 E05)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E05%20-%20A%20Slow%20Bus%20To%20Chingford.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E05.A.Slow.Bus.To.Chingford.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]THE RUSSIANS ARE COMING! (S01 E06)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S01%20-%20E06%20-%20The%20Russians%20Are%20Coming.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E06.The.Russians.Are.Coming.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
