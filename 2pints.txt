@@ -1,5 +1,5 @@
 <item>
-<title>[COLORlime]SEASON ONE[/COLOR]</title>
+<title>[COLORlime]~~~~~~SEASON ONE~~~~~~[/COLOR]</title>
 <link>ffff</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
 <fanart></fanart>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLORlime]SEASON TWO[/COLOR]</title>
+<title>[COLORlime]~~~~~~SEASON TWO~~~~~~[/COLOR]</title>
 <link>ffff</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
 <fanart></fanart>
