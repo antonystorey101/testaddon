@@ -1,1 +1,6 @@
-
+<item>
+<title>[COLORgold]ROYAL RUMBLE 2018[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%201/01%20Fags,%20Shags%20And%20Kebabs.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
