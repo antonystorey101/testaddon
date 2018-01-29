@@ -223,3 +223,67 @@
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]FROM PRUSSIA WITH LOVE! (S05 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E01%20-%20From%20Prussia%20With%20Love.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE MIRACAL OF PECKHAM! (S05 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E02%20-%20The%20Miracle%20of%20Peckham.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]THE LONGSET NIGHT! (S05 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E03%20-%20The%20Longest%20Night.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]TEA FOR THREE! (S05 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E04%20-%20Tea%20For%20Three.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]VIDEO NASTY! (S05 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E05%20-%20Video%20Nasty.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]WHO WANTS TO BE A MILLIONAIRE! (S05 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E06%20-%20Who%20Wants%20to%20Be%20a%20Millionaire.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]A ROYAL FLUSH! (S05 E07)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E07%20-%20A%20Royal%20Flush.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON SIX~~~~~~[/COLOR]</title>
+<link>FFFF</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]YUPPY LOVE! (S06 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.1.Yuppy%20Love.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
