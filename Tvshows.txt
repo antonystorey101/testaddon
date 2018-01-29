@@ -58,10 +58,10 @@
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
 
-<item>
+<channel>
 <title>[COLORlime]Porridge[/COLOR]</title>
 <externallink>http://136.243.64.147/Shared/movies/New/Interstellar%20txt%20files/porridge.txt</externallink>
 <thumbnail>http://rmz.cr/data/images/movies/2013-11/porridge.jpg</thumbnail>
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
-</item>
+</channel>
