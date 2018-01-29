@@ -377,3 +377,32 @@
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLORgold]HERO'S AND VILLANS! (S08 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%208/OFAH%20s08%20e01%20Heroes%20and%20Villains.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]MODERN MAN! (S08 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%208/OFAH%20s08%20e02%20Modern%20Man.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]TIME ON OUR HANDS! (S08 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%208/OFAH%20s08%20e02%20Modern%20Man.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~CHRISTMAS SPECIALS~~~~~~[/COLOR]</title>
+<link>FFFF</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
