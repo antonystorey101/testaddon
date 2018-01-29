@@ -329,10 +329,51 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>[COLORgold]SKY'S THE LIMIT! (S07 E01)[/COLOR]</title>
 <link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E01.The%20Sky%27s%20the%20Limit.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE CHANCE OF A LUNCHTIME! (S07 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E02.The%20Chance%20of%20a%20Lunchtime.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]STAGE FRIGHT! (S07 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E03.Stage%20Fright.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]CLASS OF 62'! (S07 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E04.Class%20of%2062.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]HE AIN'T HEAVY HE'S MY UNCLE! (S07 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E05.He%20Aint%20Heavy%20He%27s%20My%20Uncle.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THREE MEN A WOMAN & A BABY! (S07 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E06.Three%20Men%20a%20Woman%20and%20a%20Baby.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON ~~~~~~[/COLOR]</title>
+<link>FFFF</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
