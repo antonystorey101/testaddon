@@ -64,7 +64,7 @@
 
 <item>
 <title>[COLORlime]ASHES TO ASHES! (S02 E02)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E02%20-%20Ashes%20To%20Ashes.mkv</link>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20-%20Series%202%20(1982)%20DVDRip%20AVC-AAC%20Gooner/Ofah%20Series%202-2%20-%20Ashes%20to%20Ashes.mp4</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
