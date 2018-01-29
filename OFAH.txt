@@ -294,3 +294,38 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORgold]CHAIN GANG! (S06 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.3.Chain%20Gang.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE UNLUCKY WINNER IS! (S06 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.4.The%20Unlucky%20Winner%20Is....avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]SICKNESS AND HEALTH! (S06 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.5.Sickness%20and%20Wealth.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]LITTLE PROBLEMS! (S06 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.6.Little%20Problems.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON SE~~~~~~[/COLOR]</title>
+<link>FFFF</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
