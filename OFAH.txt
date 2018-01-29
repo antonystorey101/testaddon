@@ -55,6 +55,62 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORgold]THE LONG LEGS OF THE LAW! (S02 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E01%20-%20The%20Long%20Legs%20Of%20The%20Law.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]ASHES TO ASHES! (S02 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E02%20-%20Ashes%20To%20Ashes.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]A LOOSING STREAK! (S02 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E03%20-%20A%20Losing%20Streak.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]NO GREATER LOVE! (S02 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E04%20-%20No%20Greater%20Love.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORgold]THE YELLOW PERIL! (S02 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E05%20-%20The%20Yellow%20Peril.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]IT NEVER RAINS! (S02 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E06%20-%20It%20Never%20Rains....mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]A TOUCH OF GLASS! (S02 E07)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20And%20Horses%20-%20The%20Complete%20Collection/Series%201-7/S02%20-%20E07%20-%20A%20Touch%20Of%20Glass.mkv</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON THREE~~~~~~[/COLOR]</title>
+<link>FFFF</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
 
