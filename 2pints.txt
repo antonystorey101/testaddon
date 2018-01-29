@@ -102,3 +102,75 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]MUNCH! (S03 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/01%20Munch.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]FISH! (S03 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/02%20Fish.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]KANGAROO! (S03 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/03%20Kangaroo.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]BEASTIALITY! (S03 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/04%20Beastiality.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]HOSPIKAL! (S03 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/05%20Hospikal.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]DRESSES, DRESSES, DRESSES! (S03 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/06%20Dresses,%20Dresses,%20Dresses.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]FOKIN' MOKKY BOKKA! (S03 E07)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/07%20Fockin%E2%80%99%20Mokky%20Bokka.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]JAMMY DODGERS! (S03 E08)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/08%20Jammy%20Dodgers.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]DUMP! (S03 E09)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/09%20Dump.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORlime]SCHLUBALLYBUB! (S03 E10)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Two%20Pints%20of%20Lager%20and%20a%20Packet%20of%20Crisps%20seasons%20%201-9/season%203/10%20Schluballybub.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81zZ7kEBIsL._AC_UL320_SR226,320_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
