@@ -45,7 +45,7 @@
 
 <item>
 <title>[COLORgold]Finding Nemo (1080p)[/COLOR]</title>
-<link>http://www.freemediabd.com/ftpdata/Movies/English/Finding%20Nemo/Finding.Nemo.2003.720p.BluRay.x264.YIFY.mp4</link>
+<link>http://136.243.64.147/Shared/Movies/New/Disney%20Collection%201937-2008/2003%20-%20Finding%20Nemo.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
