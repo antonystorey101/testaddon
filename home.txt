@@ -104,7 +104,7 @@
 <channel>
 <name>[COLORgold]Wrestling[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/Anglerspace.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Wrestling.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
