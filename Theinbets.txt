@@ -1,0 +1,6 @@
+<item>
+<title>[COLORgold]FIRST DAY! (S01 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/movies/New/The%20Inbetweeners%20Complete%20Collection/The%20Inbetweeners%20Season%201/The%20Inbetweeners%20S01E02.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
