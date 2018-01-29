@@ -28,7 +28,7 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Some 4K Movies [/COLOR]</name>
+<name>[COLORlime]Just A Few 4K Films[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/4kmovies.txt</externallink>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
