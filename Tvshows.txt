@@ -45,7 +45,7 @@
 <channel>
 <name>[COLORlime]The Inbetweeners[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNjZGYyNjMtMWE0NS00NzhlLWFjZmItOGQ1MGJmYWMzOWNhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
-<externallink>ffff</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Theinbets.txt</externallink>
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
