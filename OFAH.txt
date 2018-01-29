@@ -323,7 +323,7 @@
 </item>
 
 <item>
-<title>[COLORlime]~~~~~~SEASON SE~~~~~~[/COLOR]</title>
+<title>[COLORlime]~~~~~~SEASON SEVEN~~~~~~[/COLOR]</title>
 <link>FFFF</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
