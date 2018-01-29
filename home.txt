@@ -94,7 +94,7 @@
 </channels>
 
 <channel>
-<name>[COLORgold]Adults Area [/COLOR]</name>
+<name>[COLORlime]Adults Area [/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/Xxx.txt</externallink>
 <fanart></fanart>
