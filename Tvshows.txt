@@ -20,7 +20,7 @@
 
 <channel>
 <name>[COLORgold]Only Fools & Horses[/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YYMY04GJL._SY445_.jpg</thumbnail>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <externallink>https://github.com/antonystorey101/testaddon/raw/master/OFAH.txt</externallink>
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
