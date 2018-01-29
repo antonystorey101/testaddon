@@ -61,7 +61,7 @@
 <channel>
 <name>[COLORlime]Porridge[/COLOR]</name>
 <thumbnail>http://rmz.cr/data/images/movies/2013-11/porridge.jpg</thumbnail>
-<externallink>http://136.243.64.147/Shared/movies/New/Interstellar%20txt%20files/porridge.txt</externallink>
+<externallink>https://www.dropbox.com/s/291dtwfti1bl53u/porridge.txt?dl=1</externallink>
 <fanart></fanart>
 <info>[COLORgold]ALL CONTENT HOSTED ON PRIVATE SERVERS.[/COLOR] [COLORlime]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
