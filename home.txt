@@ -96,7 +96,7 @@
 <channel>
 <name>[COLORgold]Adults Area [/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/kidshub.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Xxx.txt</externallink>
 <fanart></fanart>
 <info>[COLORgold]INTERSTELLAR'S ADULT SECTION[/COLOR] [COLORlime]ALL CONTENT STREAMED FROM THE INTERNET[/COLOR]</info>
 </channel>
