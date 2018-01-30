@@ -1,6 +1,55 @@
 <item>
+<title>[COLORlime]~~~~~~SEASON ONE~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORgold]BILL'S, BILL'S, BILL'S! (S01 E01)[/COLOR]</title>
 <link>http://136.243.64.147/Shared/movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x01.-.Bills.Bills.Bills.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]MAKING ENDS MEET! (S01 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x02.-.Making.Ends.Meet.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]SUNDAY AFTERNOON! (S01 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x03.-.Sunday.Afternoon.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]JIM'S BIRTHDAY! (S01 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x04.-.Jims.Birthday.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]ANOTHER WOMAN! (S01 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x05.-.Another.Woman.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]THE WEDDING DAY! (S01 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/1/Royle.Family,.The.-.1x06.-.The.Wedding.Day.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON ~~~~~~[/COLOR]</title>
+<link>ffff</link>
 <thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
 <fanart></fanart>
 </item>
