@@ -48,8 +48,99 @@
 </item>
 
 <item>
-<title>[COLORlime]~~~~~~SEASON ~~~~~~[/COLOR]</title>
+<title>[COLORlime]~~~~~~SEASON TWO~~~~~~[/COLOR]</title>
 <link>ffff</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]PREGNANCY! (S02 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x01.-.Pregnancy.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]SUNDAY LUNCH! (S02 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x02.-.Sunday.Lunch.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]NANA'S COMING TO STAY! (S02 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x03.-.Nana%27s.Coming.To.Stay.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]NANA COMES TO STAY! (S02 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x04.-.Nana.Comes.To.Stay.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]BARBARA'S FINALLY HAD ENOUGH! (S02 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x05.-.Barbara%27s.Finally.Had.Enough.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]ANTONY'S BIRTHDAY! (S02 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x06.-.Anthony%27s.Birthday.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON THREE~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]HELLO BABY DAVE! (S03 E01)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x01.-.Hello.Baby.Dave.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]BABYSITTING AGAIN! (S03 E02)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x02.-.Babysitting.Again.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]DECORATING! (S03 E03)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x03.-.Decorating.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]ELSIE'S FUNERAL! (S03 E04)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x04.-.Elsie%27s.Funeral.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]ANTONY'S GOING TO LONDON! (S03 E05)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x05.-.Anthony%27s.Going.To.London.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE CHRISTENING! (S03 E06)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x06.-.The.Christening.avi</link>
 <thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
 <fanart></fanart>
 </item>
