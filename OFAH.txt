@@ -406,3 +406,82 @@
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]CHRISTMAS CRACKERS![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E07.Christmas.Crackers.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]DIAMONDS ARE FOR HEATHER![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S02E09.Diamonds%20are%20For%20Heather.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]THICKER THAN WATER![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S03E08.Thicker%20Than%20Water.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]HULL AND BACK![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%204-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S04E09%20-%20To%20Hull%20And%20Back.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]THE FROGS LEGACY![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E08%20-%20The%20Frog%27s%20Legacy.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]DATES![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E10%20-%20Dates.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]THE JOLLY BOY'S OUTING![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.7.The%20Jolly%20Boys%20Outing.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]RODNEY COME HOME![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.8.Rodney%20Come%20Home.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]MIAMI TWICE (2 PART)![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E07%2608.Miami%20Twice%20(The%20Movie).avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]MOTHER NATURE'S SON![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E09.Mother%20Nature%27s%20Son.mp4</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]FATAL EXTRACTION![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E10.Xmas%20Special%20Fatal%20Extraction.avi</link>
+<thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
