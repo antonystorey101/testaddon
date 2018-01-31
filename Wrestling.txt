@@ -13,6 +13,20 @@
 </item>
 
 <item>
+<title>[COLORlime]NO MERCY 2017[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/WWE.No.Mercy.2017.PPV.WEB.h264-HEEL.mp4</link>
+<thumbnail>https://gulatpro.com/wp-content/uploads/2017/09/wwe-no-mercy-2017-960x540.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]SURVIVOR SERIES 2017[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/WWE.Survivor.Series.2017.PPV.720p.WEB.h264-HEEL.mp4</link>
+<thumbnail>http://digitalspyuk.cdnds.net/17/46/980x490/landscape-1511121233-www-survivor-series-2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORlime]~~~~~~WWE MONDAY NIGHT RAW~~~~~~[/COLOR]</title>
 <link>FFFF</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/cb/WWE_Raw_2016_Logo.png</thumbnail>
