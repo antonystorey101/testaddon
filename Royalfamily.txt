@@ -1,6 +1,6 @@
 <item>
 <title>[COLORlime]~~~~~~SEASON ONE~~~~~~[/COLOR]</title>
-<link>ffff</link>
+<link>http://files1.vodiptv.org/TV%20Shows/The%20Big%20Bang%20Theory/Season%201/The%20Big%20Bang%20Theory%20-%20S01E01%20-%20Pilot%20Bluray-1080p.mkv</link>
 <thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
 <fanart></fanart>
 </item>
