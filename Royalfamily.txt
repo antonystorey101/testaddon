@@ -144,3 +144,41 @@
 <thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]~~~~~~SPECIALS~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]WE LOVE THE ROYAL FAMILY![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/BBC%20-%20We%20Love%20The%20Royle%20Family.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]CHTISTMAS SPECIALS! (1999)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/2/Royle.Family,.The.-.2x99.-.1999.Xmas.Special.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]CHTISTMAS SPECIALS! (2000)[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/3/Royle.Family,.The.-.3x07.-.2000.Xmas.Special.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]THE QUEEN OF SHEBA![/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/The%20Royle%20Family/The%20Royle%20Family%20-%20The%20Queen%20of%20Sheba/The%20Queen%20of%20Sheba.avi</link>
+<thumbnail>https://i.pinimg.com/236x/44/a6/f3/44a6f33f47c9c4b4d5840263244894cd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
