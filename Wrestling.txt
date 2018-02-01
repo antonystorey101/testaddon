@@ -46,3 +46,24 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/WWE_SmackDown_Live_2016_logo.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]~~~~~~WRESTLEMANIAS~~~~~~[/COLOR]</title>
+<link>FFFF</link>
+<thumbnail>https://statics.sportskeeda.com/wp-content/uploads/2013/09/ppv-wwe-1938302.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]~~~~~~WCW PPV'S ('96)~~~~~~[/COLOR]</title>
+<link>FFFF</link>
+<thumbnail>https://statics.sportskeeda.com/wp-content/uploads/2013/09/ppv-wwe-1938302.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]RAW 29.01.2018[/COLOR]</title>
+<link>http://136.243.64.147/Shared/Movies/New/WWE.WrestleMania.Pack.Fullscreen.720p.x264.mp4/WrestleMania%2032/WrestleMania%20XXXII%20(2016).mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/cb/WWE_Raw_2016_Logo.png</thumbnail>
+<fanart></fanart>
+</item>
