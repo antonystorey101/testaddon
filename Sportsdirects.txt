@@ -18,3 +18,17 @@
 <thumbnail>http://www.sportingequals.org.uk/cmsUploads/fkFiles/sky2.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]----[/COLOR] [COLORlime]BT SPORTS [/COLOR][COLORgold] ----[/COLOR] </title>
+<link>HHH</link>
+<thumbnail>https://www.dropbox.com/s/d0pszyoz9fxa39v/btsport1hd.png?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold] BY SPORTS 1 (FHD)[/COLOR] </title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143894.ts</link>
+<thumbnail>https://www.dropbox.com/s/d0pszyoz9fxa39v/btsport1hd.png?dl=1</thumbnail>
+<fanart></fanart>
+</item>
