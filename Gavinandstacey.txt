@@ -11,3 +11,38 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]EPISODE TWO[/COLOR]</title>
+<link>http://interstellarhosting.hopto.org/Shared/movies/New/Gavin%20and%20Stacey%20Complete%20Collection/Series%201/Gavin%20And%20Stacey%20S01E02.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]EPISODE THREE[/COLOR]</title>
+<link>http://interstellarhosting.hopto.org/Shared/movies/New/Gavin%20and%20Stacey%20Complete%20Collection/Series%201/Gavin%20And%20Stacey%20S01E03.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]EPISODE FOUR[/COLOR]</title>
+<link>http://interstellarhosting.hopto.org/Shared/movies/New/Gavin%20and%20Stacey%20Complete%20Collection/Series%201/Gavin%20And%20Stacey%20S01E04.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]EPISODE FIVE[/COLOR]</title>
+<link>http://interstellarhosting.hopto.org/Shared/movies/New/Gavin%20and%20Stacey%20Complete%20Collection/Series%201/Gavin%20And%20Stacey%20S01E05.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold]EPISODE SIX[/COLOR]</title>
+<link>http://interstellarhosting.hopto.org/Shared/movies/New/Gavin%20and%20Stacey%20Complete%20Collection/Series%201/Gavin%20And%20Stacey%20S01E06.avi</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
