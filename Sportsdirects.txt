@@ -27,8 +27,22 @@
 </item>
 
 <item>
-<title>[COLORgold] BY SPORTS 1 (FHD)[/COLOR] </title>
+<title>[COLORgold] BT SPORTS 1 (SD)[/COLOR] </title>
 <link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143894.ts</link>
+<thumbnail>https://www.dropbox.com/s/d0pszyoz9fxa39v/btsport1hd.png?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime] BT SPORTS 1 (HD)[/COLOR] </title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143846.ts</link>
+<thumbnail>https://www.dropbox.com/s/d0pszyoz9fxa39v/btsport1hd.png?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime] BT SPORTS 1 (FHD)[/COLOR] </title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143906.ts</link>
 <thumbnail>https://www.dropbox.com/s/d0pszyoz9fxa39v/btsport1hd.png?dl=1</thumbnail>
 <fanart></fanart>
 </item>
