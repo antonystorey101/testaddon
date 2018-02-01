@@ -46,3 +46,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]~~~~~~SEASON TWO~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51ALsDJOOSL._SX378_BO1,204,203,200_.jpg</thumbnail>
+<fanart></fanart>
+</item>
