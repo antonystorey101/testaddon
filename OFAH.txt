@@ -381,21 +381,21 @@
 
 <item>
 <title>[COLORgold]HERO'S AND VILLANS! (S08 E01)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%208/OFAH%20s08%20e01%20Heroes%20and%20Villains.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/17.%20Christmas%20Trilogy%201996/hm666-ofah-01-hav.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLORlime]MODERN MAN! (S08 E02)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%208/OFAH%20s08%20e02%20Modern%20Man.avi</link>
+<title>[COLORlime]MODERN MEN! (S08 E02)[/COLOR]</title>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/17.%20Christmas%20Trilogy%201996/hm666-ofah-02-mmen.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]TIME ON OUR HANDS! (S08 E03)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%208/OFAH%20s08%20e02%20Modern%20Man.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/17.%20Christmas%20Trilogy%201996/hm666-ofah-03-tooh.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -409,63 +409,63 @@
 
 <item>
 <title>[COLORgold]CHRISTMAS CRACKERS![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E07.Christmas.Crackers.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/01.%20Series%201/hm666-ofah-s01e07.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]DIAMONDS ARE FOR HEATHER![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S02E09.Diamonds%20are%20For%20Heather.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/02.%20Series%202/hm666-ofah-s02e08.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]THICKER THAN WATER![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S03E08.Thicker%20Than%20Water.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/03.%20Series%203/hm666-ofah-s03e08.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]HULL AND BACK![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%204-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S04E09%20-%20To%20Hull%20And%20Back.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/05.%20Christmas%20Special%201985/hm666-ofah-thab.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]THE FROGS LEGACY![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E08%20-%20The%20Frog%27s%20Legacy.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/08.%20Christmas%20Special%201987/hm666-ofah-tfl.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]DATES![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%205-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S05E10%20-%20Dates.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/09.%20Christmas%20Special%201988/hm666-ofah-dates.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]THE JOLLY BOY'S OUTING![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.7.The%20Jolly%20Boys%20Outing.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/11.%20Christmas%20Special%201989/hm666-ofah-tjbo.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]RODNEY COME HOME![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%206-OnlyMe1/Episode.8.Rodney%20Come%20Home.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/12.%20Christmas%20Special%201990/hm666-ofah-rch.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]MIAMI TWICE (2 PART)![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E07%2608.Miami%20Twice%20(The%20Movie).avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/14.%20Christmas%20Special%201991/hm666-ofah-mtwice.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -479,9 +479,11 @@
 
 <item>
 <title>[COLORgold]FATAL EXTRACTION![/COLOR]</title>
-<link>http://136.243.64.147/Shared/Movies/New/Only%20Fools%20and%20Horses%20Season%207-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S07E10.Xmas%20Special%20Fatal%20Extraction.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/16.%20Christmas%20Special%201993/hm666-ofah-fextraction.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+
 
 
