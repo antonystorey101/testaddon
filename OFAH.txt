@@ -7,28 +7,28 @@
 
 <item>
 <title>[COLORgold]BIG BROTHER! (S01 E01)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E01.Big.Brother.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e01.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]GO WEST YOUNG MAN! (S01 E02)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E02.Go.West.Young.Man.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e02.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]CASH AND CURRY! (S01 E03)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E03.Cash.And.Curry.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e03.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]SECOND TIME AROUND! (S01 E04)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E04.The.Second.Time.Around.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e04.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -36,14 +36,14 @@
 
 <item>
 <title>[COLORgold]A SLOW BUS TO CHINGFORD! (S01 E05)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E05.A.Slow.Bus.To.Chingford.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e05.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]THE RUSSIANS ARE COMING! (S01 E06)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%201-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S01E06.The.Russians.Are.Coming.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e06.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -57,28 +57,28 @@
 
 <item>
 <title>[COLORgold]THE LONG LEGS OF THE LAW! (S02 E01)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E01.The%20Long%20Legs%20of%20the%20Law.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e01.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]ASHES TO ASHES! (S02 E02)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E02.Ashes%20to%20Ashes.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e02.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]A LOOSING STREAK! (S02 E03)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E03.A%20Losing%20Streak.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e03.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]NO GREATER LOVE! (S02 E04)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E04.No%20Greater%20Love.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e04.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -86,21 +86,21 @@
 
 <item>
 <title>[COLORgold]THE YELLOW PERIL! (S02 E05)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E05.The%20Yellow%20Peril.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e05.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]IT NEVER RAINS! (S02 E06)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E06.It%20Never%20Rains.avimkv</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e06.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]A TOUCH OF GLASS! (S02 E07)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%202-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S02E07.A%20Touch%20of%20Glass.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%202/hm666-ofah-s02e07.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -114,49 +114,49 @@
 
 <item>
 <title>[COLORgold]HOMESICK! (S03 E01)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S03E01.Homesick.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e01.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]HEALTHY COMPETITION! (S03 E02)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S03E02.Healthy%20Competition.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e02.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]FRIDAY THE 14TH! (S03 E03)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S03E03.Friday%20the%2014th.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e03.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]YESTERDAY NEVER COMES! (S03 E04)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20And%20Horses%20-%20S03E04.Yesterday%20Never%20Comes.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e04.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]MAY THE FORCE BE WITH YOU! (S03 E05)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S03E05.May%20the%20Force%20be%20With%20You.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e05.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORlime]WANTED! (S03 E06)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S03E06.Wanted.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e06.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORgold]WHO'S A PRETTY BOY THEN! (S03 E07)[/COLOR]</title>
-<link>http://136.243.64.147/Shared/movies/New/Only%20Fools%20and%20Horses%20Season%203-OnlyMe1/Only%20Fools%20and%20Horses%20-%20S03E07.Who%27s%20a%20Pretty%20Boy.avi</link>
+<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%203/hm666-ofah-s03e07.avi</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
