@@ -21,7 +21,7 @@
 
 <item>
 <title>[COLORlime]Wonder Woman[/COLOR]</title>
-<link>sublink:LISTSOURCE:http://files1.vodiptv.org/Films/Wonder.Woman.2017.1080p.BluRay.DD5.1.x264-DON.mkv::LISTNAME:::#sublink:LISTSOURCE:http://files1.vodiptv.org/Films/Wonder.Woman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv::LISTNAME:::#</link>
+<link>sublink:LISTSOURCE:http://files1.vodiptv.org/Films/Wonder.Woman.2017.1080p.BluRay.DD5.1.x264-DON.mkv::LISTNAME:::#</link>
 </link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg</thumbnail>
 <fanart></fanart>
