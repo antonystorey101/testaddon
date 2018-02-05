@@ -60,11 +60,11 @@
 </channel>
 
 <channel>
-<name>[COLORlime]Music Video Playlists (Autoplay)[/COLOR]</name>
+<name>[COLORlime]Stand Up Greats[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/testaddon/raw/master/Musicvideos.txt</externallink>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/Standup.txt</externallink>
 <fanart></fanart>
-<info>All Content Streamed Via YouTube</info>
+<info>All Content Streamed Via The Web</info>
 </channel>
 
 <channel>
