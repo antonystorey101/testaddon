@@ -1,6 +1,6 @@
 <item>
-<title>[COLORgold]BILLY Connolly - Erect For 30 Years [/COLOR]</title>
-<utube>http://files1.vodiptv.org/Stand%20Up%20Comedy/Billy%20Connolly/Erect%20For%2030%20Years/Billy%20Connolly-%20Erect%20For%2030%20Years.avi</utube>
+<title>[COLORgold]Billy Connolly - Erect For 30 Years [/COLOR]</title>
+<link>http://files1.vodiptv.org/Stand%20Up%20Comedy/Billy%20Connolly/Erect%20For%2030%20Years/Billy%20Connolly-%20Erect%20For%2030%20Years.avi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMjQyNjQ2MF5BMl5BanBnXkFtZTYwMjQ0NjE5._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
