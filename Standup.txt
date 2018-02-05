@@ -4,3 +4,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMjQyNjQ2MF5BMl5BanBnXkFtZTYwMjQ0NjE5._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORlime]Dara O' Briain - Live At The Theatre Royal[/COLOR]</title>
+<link>http://files1.vodiptv.org/Stand%20Up%20Comedy/Dara%20O%20Brian/Dara%20O%20Briain%20-%20Live%20at%20the%20Theatre%20Royal%20[2006].avi</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kbvEIozdQvQ1W7vfPP0oqRpXfSe.jpg</thumbnail>
+<fanart></fanart>
+</item>
