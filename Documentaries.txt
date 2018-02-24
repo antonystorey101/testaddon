@@ -55,3 +55,10 @@
 <thumbnail>https://i.ytimg.com/vi/sEFjuNkY0yw/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]Planet Earth II 4K (S01 E01)[/COLOR]</title>
+<link>http://dl2.lavinmovie.ir/series/Planet%20Earth%20II/2160p%20x265/Planet.Earth.II.S01E01.2160p.x265.BluRay.10bit.DEPTH-LavinMovie.mkv</link>
+<thumbnail>https://www.dropbox.com/s/etk7vd7gulmkf3f/15194774529361744682484.jpg?dl=</thumbnail>
+<fanart></fanart>
+</item>
