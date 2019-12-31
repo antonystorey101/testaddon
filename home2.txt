@@ -1,0 +1,11 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLORgold]Comedy BlockBusters[/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>https://github.com/antonystorey101/testaddon/raw/master/livetvtest.txt</externallink>
+<fanart></fanart>
+<info>[COLORgold]ALL 24/7 TV SHOWS [/COLOR][COLORlime]ARE ONE CLICK PLAY CONTINUALLY PLAYING EPISODE AFTER EPISODE FROM THE SAME FILE SOURCE[/COLOR]</info>
+</channel>
