@@ -17,11 +17,12 @@
 <link>https://z1.filescdn.co/hls/dcpxlqzdtvu4iw4yi47zc57t6ilvcns3mlnhsdc7g,rioecjoliwdksfee65a,356ecjoliwcqop2tova,.urlset/master.m3u8</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
+<info>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</info>
 </item>
 
 <item>
 <title>[COLORlime]Wonder Woman[/COLOR]</title>
-<link>sublink:LISTSOURCE:http://files1.vodiptv.org/Films/Wonder.Woman.2017.1080p.BluRay.DD5.1.x264-DON.mkv::LISTNAME:::#</link>
+<link>https://c19.vidlox.me/hls/,oudvhobu7rtk2yixv6iouud7lss7d2fexk655wbxpv2l6ahqamsodfayuubq,.urlset/master.m3u8</link>
 </link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg</thumbnail>
 <fanart></fanart>
