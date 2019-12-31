@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLORgold]Interstellar[/COLOR]</title>
-<link>http://dl.ftk.pw/film/Interstellar.2014.720p.BluRay.Film2Movie_ORG.mkv</link>
+<link>https://p2p.vidlink.org/drive//hls/fcd0aa8fe5e1999659c42ee5dd55bc78/fcd0aa8fe5e1999659c42ee5dd55bc78.m3u8</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
