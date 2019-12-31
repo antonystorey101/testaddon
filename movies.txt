@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLORgold]Interstellar[/COLOR]</title>
-<link>https://p2p.vidlink.org/drive//hls/fcd0aa8fe5e1999659c42ee5dd55bc78/fcd0aa8fe5e1999659c42ee5dd55bc78.m3u8</link>
+<link>https://z1.filescdn.co/hls/dcpxlqzdtvu4iw4yi47zc57t6ilvcns3mlnhsdc7g,rioecjoliwdksfee65a,356ecjoliwcqop2tova,.urlset/master.m3u8</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB</thumbnail>
 <fanart></fanart>
 </item>
