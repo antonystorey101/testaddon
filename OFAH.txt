@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLORlime]GO WEST YOUNG MAN! (S01 E02)[/COLOR]</title>
-<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e02.avi</link>
+<link>https://fvs.io/redirector?token=L2dUb0R0L1pGblQxa2EzY0pUaVlNUTlDR1AyNGkvaXNXbFczTXNFSHRqcXg3dkRFVmlBV3VsWFNGRS9wNHovOFRtVDhtTGg1TUVtcG16S3Y5NUVNMmtmamh5VXVNY21aRVZRK3JtSDFsNFFmRHdCUWV6VExEZmpSRjJqQSt0dk5sOFFDbkJJR2NIOU10VEhrSVgrQm5BbzFMdmZzOkU0OHh3UDZvNExTWGJwSXJLb1R3Q1E9PQ</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
