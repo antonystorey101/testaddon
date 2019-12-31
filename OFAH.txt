@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLORgold]BIG BROTHER! (S01 E01)[/COLOR]</title>
-<link>http://files1.vodiptv.org/TV%20Shows/Only%20Fools%20And%20Horses/Season%201/hm666-ofah-s01e01.avi</link>
+<link>https://fvs.io/redirector?token=WjdVK0d1czJYM25nUDNCMUtTd2QyVEI4bHh1SkppcTJaQk5MZkJhbkxUUTZ2VmkzVFAxRzBWZHRCOS9hOHdEY2M3Q29IbDNPSHlwQ2VFQ0s4UjV5Nkc2a29oc2RvQ2RLdUZ1VEV6dUwydEZxcFBKN3FUVkhSb3dnSjUwNmVZTGlhSjdzbElMYlJjSy9QT3NETE9DZlNLNjVGalI3VmRlbzRnPT06Znk0SmNUMmNEOTV3eW5wWUMwZ3NHUT09</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
