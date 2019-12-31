@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLORlime]GO WEST YOUNG MAN! (S01 E02)[/COLOR]</title>
-<link>https://fvs.io/redirector?token=L2dUb0R0L1pGblQxa2EzY0pUaVlNUTlDR1AyNGkvaXNXbFczTXNFSHRqcXg3dkRFVmlBV3VsWFNGRS9wNHovOFRtVDhtTGg1TUVtcG16S3Y5NUVNMmtmamh5VXVNY21aRVZRK3JtSDFsNFFmRHdCUWV6VExEZmpSRjJqQSt0dk5sOFFDbkJJR2NIOU10VEhrSVgrQm5BbzFMdmZzOkU0OHh3UDZvNExTWGJwSXJLb1R3Q1E9PQ</link>
+<link>https://redirector.googlevideo.com/videoplayback?expire=1577790599&ei=ZxALXsONE4W4yQWk8LPoBQ&ip=95.217.19.201&id=36897230e51b7faf&itag=18&source=picasa&begin=0&requiressl=yes&mm=30&mn=sn-5goeen7y&ms=nxu&mv=u&mvi=2&pl=23&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=1844.430&lmt=1577597176473166&mt=1577782862&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ALgxI2wwRgIhAOuonjk6gNUCgXCefSReGHK_q3kBTEbpVxXqj5-YaAKBAiEAik8Wj_GsBTgoume1Vetc-4Byw_E_MBCoReYXmCcCdwI=&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAPK0Oy-DpaHup5Y_otqp19YTjIdMeRo-C_jpH10IPfqlAiAtA6UbfZKF4aUfzRCy0tDmfn9BAStL53cpv26PVg5c6Q==</link>
 <thumbnail>https://i.ebayimg.com/images/g/xwcAAOSwN0NaT4PH/s-l300.jpg</thumbnail>
 <fanart></fanart>
 </item>
